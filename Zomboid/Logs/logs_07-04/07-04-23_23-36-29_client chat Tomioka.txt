@@ -1,0 +1,3 @@
+[07-04-23 23:36:29.310][info] Init chat system....
+[07-04-23 23:36:29.310][info] Mode: single player.
+[07-04-23 23:36:29.310][info] Chat owner: Tomioka.

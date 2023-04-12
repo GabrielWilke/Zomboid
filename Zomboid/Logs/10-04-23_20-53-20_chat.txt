@@ -1,0 +1,108 @@
+[10-04-23 20:53:20.975][info] Start chat server initialization....
+[10-04-23 20:53:21.074][info] General chat has id = 0.
+[10-04-23 20:53:21.074][info] Say chat has id = 1.
+[10-04-23 20:53:21.074][info] Shout chat has id = 2.
+[10-04-23 20:53:21.075][info] Radio chat has id = 3.
+[10-04-23 20:53:21.075][info] Admin chat has id = 4.
+[10-04-23 20:53:21.075][info] Server chat has id = 5.
+[10-04-23 20:53:21.075][info] Chat server successfully initialized.
+[10-04-23 20:54:20.499][info] Player with id = '0' tries to connect.
+[10-04-23 20:54:20.499][info] Adding player '0' to chat server.
+[10-04-23 20:54:20.500][info] Player joined to default chats.
+[10-04-23 20:54:20.501][info] Player Tomioka(0) joined to chat server successfully.
+[10-04-23 20:56:34.661][info] Player with id = '4' tries to connect.
+[10-04-23 20:56:34.662][info] Adding player '4' to chat server.
+[10-04-23 20:56:34.662][info] Player joined to default chats.
+[10-04-23 20:56:34.662][info] Player monicao da 13(4) joined to chat server successfully.
+[10-04-23 20:56:56.330][info] Player with id = '8' tries to connect.
+[10-04-23 20:56:56.331][info] Adding player '8' to chat server.
+[10-04-23 20:56:56.331][info] Player joined to default chats.
+[10-04-23 20:56:56.331][info] Player joaoZinBALATENSA(8) joined to chat server successfully.
+[10-04-23 21:00:01.514][info] Got message:ChatMessage{chat=Local, author='Tomioka', text='Se pa vo de comes e bebes'}.
+[10-04-23 21:00:01.516][info] Message ChatMessage{chat=Local, author='Tomioka', text='Se pa vo de comes e bebes'} sent to chat (id = 1) members.
+[10-04-23 21:03:32.029][info] Player with id = '12' tries to connect.
+[10-04-23 21:03:32.029][info] Adding player '12' to chat server.
+[10-04-23 21:03:32.029][info] Player joined to default chats.
+[10-04-23 21:03:32.029][info] Player DeIL ??(12) joined to chat server successfully.
+[10-04-23 21:04:06.007][info] Player 12 disconnecting....
+[10-04-23 21:04:06.007][info] Disconnecting player 12 finished.
+[10-04-23 21:04:06.007][info] Player 12 disconnecting....
+[10-04-23 21:04:06.007][info] Disconnecting player 12 finished.
+[10-04-23 21:13:52.626][info] Player with id = '12' tries to connect.
+[10-04-23 21:13:52.626][info] Adding player '12' to chat server.
+[10-04-23 21:13:52.626][info] Player joined to default chats.
+[10-04-23 21:13:52.626][info] Player DeIL ??(12) joined to chat server successfully.
+[10-04-23 21:20:28.418][info] Got message:ChatMessage{chat=Local, author='DeIL ??', text='penis'}.
+[10-04-23 21:20:28.419][info] Message ChatMessage{chat=Local, author='DeIL ??', text='penis'} sent to chat (id = 1) members.
+[10-04-23 21:27:57.245][info] Got message:ChatMessage{chat=Local, author='monicao da 13', text='pssst!'}.
+[10-04-23 21:27:57.245][info] Message ChatMessage{chat=Local, author='monicao da 13', text='pssst!'} sent to chat (id = 2) members.
+[10-04-23 21:43:40.462][info] Got message:ChatMessage{chat=Local, author='DeIL ??', text='HEY YOU!'}.
+[10-04-23 21:43:40.463][info] Message ChatMessage{chat=Local, author='DeIL ??', text='HEY YOU!'} sent to chat (id = 2) members.
+[10-04-23 22:04:24.051][info] Player 4 disconnecting....
+[10-04-23 22:04:24.051][info] Disconnecting player 4 finished.
+[10-04-23 22:05:50.679][info] Player 4 disconnecting....
+[10-04-23 22:05:50.680][info] Disconnecting player 4 finished.
+[10-04-23 22:05:50.680][info] Player with id = '4' tries to connect.
+[10-04-23 22:05:50.680][info] Adding player '4' to chat server.
+[10-04-23 22:05:50.681][error] Player or connection is not found on server!.
+[10-04-23 22:05:50.681][error] player = null.
+[10-04-23 22:05:52.404][info] Player with id = '4' tries to connect.
+[10-04-23 22:05:52.404][info] Adding player '4' to chat server.
+[10-04-23 22:05:52.404][info] Player joined to default chats.
+[10-04-23 22:05:52.404][info] Player monicao da 13(4) joined to chat server successfully.
+[10-04-23 22:53:37.759][info] Player 8 disconnecting....
+[10-04-23 22:53:37.759][info] Disconnecting player 8 finished.
+[10-04-23 22:53:37.759][info] Player 8 disconnecting....
+[10-04-23 22:53:37.759][info] Disconnecting player 8 finished.
+[10-04-23 23:13:09.190][info] Player with id = '8' tries to connect.
+[10-04-23 23:13:09.190][info] Adding player '8' to chat server.
+[10-04-23 23:13:09.190][info] Player joined to default chats.
+[10-04-23 23:13:09.190][info] Player joaoZinBALATENSA(8) joined to chat server successfully.
+[10-04-23 23:58:02.790][info] Player 4 disconnecting....
+[10-04-23 23:58:02.791][info] Disconnecting player 4 finished.
+[10-04-23 23:59:21.210][info] Player 8 disconnecting....
+[10-04-23 23:59:21.210][info] Disconnecting player 8 finished.
+[10-04-23 23:59:21.210][info] Player 8 disconnecting....
+[10-04-23 23:59:21.210][info] Disconnecting player 8 finished.
+[11-04-23 00:00:03.700][info] Player 4 disconnecting....
+[11-04-23 00:00:03.700][info] Disconnecting player 4 finished.
+[11-04-23 00:00:03.701][info] Player with id = '4' tries to connect.
+[11-04-23 00:00:03.701][info] Adding player '4' to chat server.
+[11-04-23 00:00:03.701][error] Player or connection is not found on server!.
+[11-04-23 00:00:03.701][error] player = null.
+[11-04-23 00:00:05.487][info] Player with id = '4' tries to connect.
+[11-04-23 00:00:05.487][info] Adding player '4' to chat server.
+[11-04-23 00:00:05.487][info] Player joined to default chats.
+[11-04-23 00:00:05.487][info] Player monicao da 13(4) joined to chat server successfully.
+[11-04-23 00:00:22.524][info] Player with id = '8' tries to connect.
+[11-04-23 00:00:22.524][info] Adding player '8' to chat server.
+[11-04-23 00:00:22.524][info] Player joined to default chats.
+[11-04-23 00:00:22.525][info] Player joaoZinBALATENSA(8) joined to chat server successfully.
+[11-04-23 00:01:51.081][info] Player 12 disconnecting....
+[11-04-23 00:01:51.081][info] Disconnecting player 12 finished.
+[11-04-23 00:09:16.458][info] Player 12 disconnecting....
+[11-04-23 00:09:16.458][info] Disconnecting player 12 finished.
+[11-04-23 00:09:16.459][info] Player with id = '12' tries to connect.
+[11-04-23 00:09:16.459][info] Adding player '12' to chat server.
+[11-04-23 00:09:16.459][error] Player or connection is not found on server!.
+[11-04-23 00:09:16.459][error] player = null.
+[11-04-23 00:09:17.343][info] Player with id = '12' tries to connect.
+[11-04-23 00:09:17.343][info] Adding player '12' to chat server.
+[11-04-23 00:09:17.344][info] Player joined to default chats.
+[11-04-23 00:09:17.344][info] Player DeIL ??(12) joined to chat server successfully.
+[11-04-23 00:15:25.853][info] Player 12 disconnecting....
+[11-04-23 00:15:25.853][info] Disconnecting player 12 finished.
+[11-04-23 00:18:50.905][info] Player 12 disconnecting....
+[11-04-23 00:18:50.905][info] Disconnecting player 12 finished.
+[11-04-23 00:18:50.906][info] Player with id = '12' tries to connect.
+[11-04-23 00:18:50.906][info] Adding player '12' to chat server.
+[11-04-23 00:18:50.906][error] Player or connection is not found on server!.
+[11-04-23 00:18:50.906][error] player = null.
+[11-04-23 00:18:51.883][info] Player with id = '12' tries to connect.
+[11-04-23 00:18:51.883][info] Adding player '12' to chat server.
+[11-04-23 00:18:51.884][info] Player joined to default chats.
+[11-04-23 00:18:51.884][info] Player DeIL ??(12) joined to chat server successfully.
+[11-04-23 01:05:17.974][info] Player 0 disconnecting....
+[11-04-23 01:05:17.974][info] Disconnecting player 0 finished.
+[11-04-23 01:05:17.975][info] Player 0 disconnecting....
+[11-04-23 01:05:17.975][info] Disconnecting player 0 finished.

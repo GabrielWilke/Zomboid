@@ -1,0 +1,6 @@
+[10-04-23 20:54:20.522][info] Init chat system....
+[10-04-23 20:54:20.523][info] Mode: multiplayer.
+[10-04-23 20:54:20.523][info] Chat owner: Tomioka.
+[10-04-23 21:15:46.789][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='Stop kidding me...'}.
+[10-04-23 21:20:28.439][info] Got message from server: ChatMessage{chat=Local, author='DeIL ??', text='penis'}.
+[10-04-23 21:43:40.490][info] Got message from server: ChatMessage{chat=Local, author='DeIL ??', text='HEY YOU!'}.

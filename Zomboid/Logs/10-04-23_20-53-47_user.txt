@@ -1,0 +1,64 @@
+[10-04-23 20:53:47.604] added connection index=0 127.0.0.1.
+[10-04-23 20:53:48.421] 76561198045199544 "Tomioka" attempting to join.
+[10-04-23 20:53:48.421] 76561198045199544 "Tomioka" allowed to join.
+[10-04-23 20:53:59.259] 76561198045199544 "Tomioka" attempting to join used queue.
+[10-04-23 20:54:15.735] player Tomioka loading time was: 15877 ms.
+[10-04-23 20:54:20.667] 76561198045199544 "Tomioka" fully connected (8148,11734,0).
+[10-04-23 20:54:46.973] added connection index=1 164.76.109.16.
+[10-04-23 20:54:47.944] 76561198226339992 "monicao da 13" attempting to join.
+[10-04-23 20:54:47.944] 76561198226339992 "monicao da 13" allowed to join.
+[10-04-23 20:55:11.225] 76561198226339992 "monicao da 13" attempting to join used queue.
+[10-04-23 20:55:56.525] player monicao da 13 loading time was: 43523 ms.
+[10-04-23 20:56:00.892] added connection index=2 250.116.246.20.
+[10-04-23 20:56:01.766] 76561198082500592 "joaoZinBALATENSA" attempting to join.
+[10-04-23 20:56:01.767] 76561198082500592 "joaoZinBALATENSA" allowed to join.
+[10-04-23 20:56:16.221] 76561198082500592 "joaoZinBALATENSA" attempting to join used queue.
+[10-04-23 20:56:34.664] 76561198226339992 "monicao da 13" fully connected (8150,11735,0).
+[10-04-23 20:56:48.060] player joaoZinBALATENSA loading time was: 30416 ms.
+[10-04-23 20:56:56.333] 76561198082500592 "joaoZinBALATENSA" fully connected (8144,11739,0).
+[10-04-23 20:59:57.322] added connection index=3 155.69.15.35.
+[10-04-23 21:00:02.609] null "null" removed connection index=3.
+[10-04-23 21:01:35.465] added connection index=3 13.48.177.40.
+[10-04-23 21:01:36.793] 76561198307998488 "DeIL ??" attempting to join.
+[10-04-23 21:01:36.794] 76561198307998488 "DeIL ??" allowed to join.
+[10-04-23 21:01:45.318] added connection index=4 31.54.127.41.
+[10-04-23 21:02:03.405] null "null" removed connection index=4.
+[10-04-23 21:02:07.448] 76561198307998488 "DeIL ??" attempting to join used queue.
+[10-04-23 21:03:26.645] player DeIL ?? loading time was: 76718 ms.
+[10-04-23 21:03:32.032] 76561198307998488 "DeIL ??" fully connected (8152,11744,0).
+[10-04-23 21:04:05.996] 76561198307998488 "DeIL ??" removed connection index=3.
+[10-04-23 21:04:06.009] 76561198307998488 "DeIL ??" disconnected player (8151,11743,0).
+[10-04-23 21:12:24.202] added connection index=3 206.250.119.51.
+[10-04-23 21:12:25.184] 76561198307998488 "DeIL ??" attempting to join.
+[10-04-23 21:12:25.185] 76561198307998488 "DeIL ??" allowed to join.
+[10-04-23 21:13:04.985] 76561198307998488 "DeIL ??" attempting to join used queue.
+[10-04-23 21:13:50.113] player DeIL ?? loading time was: 43993 ms.
+[10-04-23 21:13:52.628] 76561198307998488 "DeIL ??" fully connected (8151,11743,0).
+[10-04-23 22:04:24.053] user monicao da 13 died at (8138,11479,0) (non pvp).
+[10-04-23 22:05:50.680] 76561198226339992 "monicao da 13" disconnected player (8138,11479,0).
+[10-04-23 22:05:52.406] 76561198226339992 "monicao da 13" fully connected (8074,11731,0).
+[10-04-23 22:53:37.747] 76561198082500592 "joaoZinBALATENSA" removed connection index=2.
+[10-04-23 22:53:37.760] 76561198082500592 "joaoZinBALATENSA" disconnected player (8150,11742,0).
+[10-04-23 23:12:33.300] added connection index=2 60.114.144.186.
+[10-04-23 23:12:34.052] 76561198082500592 "joaoZinBALATENSA" attempting to join.
+[10-04-23 23:12:34.052] 76561198082500592 "joaoZinBALATENSA" allowed to join.
+[10-04-23 23:12:46.750] 76561198082500592 "joaoZinBALATENSA" attempting to join used queue.
+[10-04-23 23:13:00.923] player joaoZinBALATENSA loading time was: 12962 ms.
+[10-04-23 23:13:09.193] 76561198082500592 "joaoZinBALATENSA" fully connected (8150,11742,0).
+[10-04-23 23:59:21.197] 76561198082500592 "joaoZinBALATENSA" removed connection index=2.
+[10-04-23 23:59:21.211] 76561198082500592 "joaoZinBALATENSA" disconnected player (8154,11741,0).
+[10-04-23 23:59:50.836] added connection index=2 62.136.157.165.
+[10-04-23 23:59:51.458] 76561198082500592 "joaoZinBALATENSA" attempting to join.
+[10-04-23 23:59:51.458] 76561198082500592 "joaoZinBALATENSA" allowed to join.
+[11-04-23 00:00:03.700] 76561198226339992 "monicao da 13" disconnected player (8149,11746,0).
+[11-04-23 00:00:05.489] 76561198226339992 "monicao da 13" fully connected (8246,11670,0).
+[11-04-23 00:00:07.039] 76561198082500592 "joaoZinBALATENSA" attempting to join used queue.
+[11-04-23 00:00:18.624] player joaoZinBALATENSA loading time was: 10954 ms.
+[11-04-23 00:00:22.527] 76561198082500592 "joaoZinBALATENSA" fully connected (8154,11741,0).
+[11-04-23 00:09:16.459] 76561198307998488 "DeIL ??" disconnected player (8146,11732,0).
+[11-04-23 00:09:17.346] 76561198307998488 "DeIL ??" fully connected (8208,11600,0).
+[11-04-23 00:15:25.854] user DeIL ?? died at (8145,11636,0) (non pvp).
+[11-04-23 00:18:50.906] 76561198307998488 "DeIL ??" disconnected player (8145,11636,0).
+[11-04-23 00:18:51.886] 76561198307998488 "DeIL ??" fully connected (8074,11731,0).
+[11-04-23 01:05:17.962] 76561198045199544 "Tomioka" removed connection index=0.
+[11-04-23 01:05:17.976] 76561198045199544 "Tomioka" disconnected player (8149,11740,0).

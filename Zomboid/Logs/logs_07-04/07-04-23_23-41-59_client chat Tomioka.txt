@@ -1,0 +1,3 @@
+[07-04-23 23:41:59.802][info] Init chat system....
+[07-04-23 23:41:59.802][info] Mode: multiplayer.
+[07-04-23 23:41:59.802][info] Chat owner: Tomioka.

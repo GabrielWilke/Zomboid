@@ -1,0 +1,9 @@
+name=
+ip=26.43.212.136
+localip=
+port=16261
+serverpassword=
+description=
+user=Wilke
+password=123
+usesteamrelay=false

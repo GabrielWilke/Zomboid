@@ -1,0 +1,51 @@
+[10-04-23 20:48:55.208] LOG  : General     , 1681170535208> 3.597.099> cachedir set to "C:\Users\Gabriel\Zomboid".
+[10-04-23 20:48:55.303] LOG  : General     , 1681170535303> 3.597.194> version=41.78.16 demo=false.
+[10-04-23 20:48:55.303] LOG  : General     , 1681170535303> 3.597.195> revision= date= time=.
+[10-04-23 20:48:55.353] LOG  : General     , 1681170535353> 3.597.244> server name is "configserver".
+[10-04-23 20:48:55.354] LOG  : General     , 1681170535354> 3.597.245> checking server WorldVersion in map_t.bin.
+[10-04-23 20:48:55.355] LOG  : General     , 1681170535355> 3.597.247> Loading networking libraries....
+[10-04-23 20:48:55.356] LOG  : General     , 1681170535356> 3.597.248> Loading steam_api64....
+[10-04-23 20:48:55.689] LOG  : General     , 1681170535689> 3.597.581> Loading RakNet64....
+[10-04-23 20:48:55.691] LOG  : General     , 1681170535691> 3.597.583> Loading ZNetJNI64....
+[10-04-23 20:48:55.814] LOG  : Network     , 1681170535814> 3.597.706> [10-04-23 20:48:55.813] > ZNet: SetLogLevel 1.
+[10-04-23 20:48:55.816] LOG  : Network     , 1681170535816> 3.597.708> [10-04-23 20:48:55.815] > ZNet: Compiled with SERVER_STEAMAPI == 0.
+[10-04-23 20:48:55.816] LOG  : Network     , 1681170535816> 3.597.708> [10-04-23 20:48:55.816] > ZNet: Starting with bServer == true.
+[10-04-23 20:48:55.817] LOG  : Network     , 1681170535816> 3.597.708> [10-04-23 20:48:55.816] > ZNet: SteamAPI initialised successfully.
+[10-04-23 20:48:55.817] LOG  : General     , 1681170535817> 3.597.709> SteamUtils initialised successfully.
+[10-04-23 20:49:03.129] LOG  : General     , 1681170543129> 3.605.021> translator: language is PT.
+[10-04-23 20:49:03.393] LOG  : General     , 1681170543392> 3.605.285> LightingFPS set to 15.
+[10-04-23 20:49:03.409] LOG  : General     , 1681170543409> 3.605.301> reading C:\Users\Gabriel\Zomboid\Server\configserver.ini.
+[10-04-23 20:49:03.411] LOG  : General     , 1681170543411> 3.605.303> writing C:\Users\Gabriel\Zomboid\Server\configserver.ini.
+[10-04-23 20:49:03.464] LOG  : Network     , 1681170543464> 3.605.356> [10-04-23 20:49:03.464] > ZNet: SZombienet -> SZombienet: Init.
+[10-04-23 20:49:03.576] LOG  : Network     , 1681170543576> 3.605.467> [10-04-23 20:49:03.576] > ZNet: SteamGameServer seems to be initialized.
+[10-04-23 20:49:03.577] LOG  : Network     , 1681170543577> 3.605.468> [10-04-23 20:49:03.577] > ZNet: SZombienet -> SSteamSDK: SetMaxPlayerCount.
+[10-04-23 20:49:03.578] LOG  : Network     , 1681170543578> 3.605.469> [10-04-23 20:49:03.578] > ZNet: SetServerName 'My PZ Server'.
+[10-04-23 20:49:03.578] LOG  : Network     , 1681170543578> 3.605.469> [10-04-23 20:49:03.578] > ZNet: SetMapName 'Muldraugh, KY'.
+[10-04-23 20:49:03.579] LOG  : Network     , 1681170543579> 3.605.470> [10-04-23 20:49:03.579] > ZNet: SetGameTags 'hidden;hosted'.
+[10-04-23 20:49:03.579] LOG  : Network     , 1681170543579> 3.605.471> [10-04-23 20:49:03.579] > ZNet: SetKeyValue key='description' value=''.
+[10-04-23 20:49:03.580] LOG  : Network     , 1681170543580> 3.605.471> [10-04-23 20:49:03.580] > ZNet: SetKeyValue key='version' value='41.78.16'.
+[10-04-23 20:49:03.580] LOG  : Network     , 1681170543580> 3.605.471> [10-04-23 20:49:03.580] > ZNet: SetKeyValue key='open' value='1'.
+[10-04-23 20:49:03.581] LOG  : Network     , 1681170543581> 3.605.472> [10-04-23 20:49:03.580] > ZNet: SetKeyValue key='public' value='0'.
+[10-04-23 20:49:03.581] LOG  : Network     , 1681170543581> 3.605.472> [10-04-23 20:49:03.581] > ZNet: SetKeyValue key='mods' value=''.
+[10-04-23 20:49:03.581] LOG  : Network     , 1681170543581> 3.605.473> [10-04-23 20:49:03.581] > ZNet: SetKeyValue key='modCount' value='0'.
+[10-04-23 20:49:03.582] LOG  : Network     , 1681170543582> 3.605.473> [10-04-23 20:49:03.582] > ZNet: SetKeyValue key='pvp' value='1'.
+[10-04-23 20:49:03.585] LOG  : General     , 1681170543585> 3.605.476> Waiting for response from Steam servers.
+[10-04-23 20:49:05.912] LOG  : Network     , 1681170545912> 3.607.803> [10-04-23 20:49:05.912] > ZNet: SSteamSDK -> SZombienet: OnSteamServersConnected.
+[10-04-23 20:49:05.912] LOG  : Network     , 1681170545912> 3.607.804> [10-04-23 20:49:05.912] > ZNet: OnSteamServersConnected.
+[10-04-23 20:49:05.913] LOG  : Network     , 1681170545913> 3.607.804> [10-04-23 20:49:05.912] > ZNet: SZombienet -> SSteamSDK: SetMaxPlayerCount.
+[10-04-23 20:49:05.913] LOG  : Network     , 1681170545913> 3.607.804> [10-04-23 20:49:05.913] > ZNet: Public IP: 187.35.184.11.
+[10-04-23 20:49:05.961] LOG  : General     , 1681170545961> 3.607.853> Start making backup to: C:\Users\Gabriel\Zomboid\backups\startup.
+[10-04-23 20:49:12.259] LOG  : General     , 1681170552259> 3.614.151> compressionElapsed=5946ms, mergingElapsed=326ms.
+[10-04-23 20:49:12.287] LOG  : General     , 1681170552287> 3.614.179> Backup made in 6324 ms.
+[10-04-23 20:49:12.293] LOG  : General     , 1681170552293> 3.614.184> user database "C:\Users\Gabriel\Zomboid\db\configserver.db".
+[10-04-23 20:49:12.786] LOG  : General     , 1681170552785> 3.614.677> admin password changed via -adminpassword option.
+[10-04-23 20:49:12.786] LOG  : General     , 1681170552786> 3.614.678> Router detection/configuration starting..
+[10-04-23 20:49:12.786] LOG  : General     , 1681170552786> 3.614.678> If the server hangs here, set UPnP=false..
+[10-04-23 20:49:15.826] LOG  : Network     , 1681170555825> 3.617.717> No UPnP-enabled Internet gateway found, you must configure port forwarding on your gateway manually in order to make your server accessible from the Internet..
+[10-04-23 20:49:15.826] LOG  : Network     , 1681170555826> 3.617.718> Initialising Server Systems....
+[10-04-23 20:49:16.714] LOG  : Lua         , 1681170556713> 3.618.605> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[10-04-23 20:49:17.968] LOG  : General     , 1681170557968> 3.619.860> scriptChecksum: 65f5e46ef1be089d5adca89001729e9c.
+[10-04-23 20:49:17.975] WARN : Recipe      , 1681170557975> 3.619.866> RecipeManager.resolveItemModuleDotType> WARNING: module "Base" may have forgot to import module Base.
+[10-04-23 20:49:17.981] WARN : Script      , 1681170557981> 3.619.872> ModelScript.check> no such model "null" for Base.BareHands.
+[10-04-23 20:49:17.982] WARN : Script      , 1681170557982> 3.619.874> ModelScript.check> no such model "???.DisposableRazor" for Base.Razor.
+[10-04-23 20:49:17.990] WARN : Script      , 1681170557989> 3.619.881> ModelScript.check> no such model "Chainsaw" for Base.Chainsaw.

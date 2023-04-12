@@ -1,0 +1,872 @@
+[08-04-23 01:53:40.899] 76561198045199544 "Tomioka" container -2 8419,11686,0 [Base.PepperJalapeno, farming.Tomato].
+[08-04-23 01:53:43.890] 76561198045199544 "Tomioka" container -2 8419,11686,0 [Base.JuiceBox, Base.Pickles].
+[08-04-23 01:54:04.890] 76561198045199544 "Tomioka" container -1 8419,11689,0 [Base.RollingPin].
+[08-04-23 01:55:16.890] 76561198045199544 "Tomioka" container -1 8418,11681,0 [Base.ElectronicsMag3].
+[08-04-23 01:56:04.890] 76561198045199544 "Tomioka" container -1 8418,11681,0 [Base.Book].
+[08-04-23 01:56:30.242] 76561198082500592 "joaoZinBALATENSA" container -1 8418,11680,0 [Base.Bag_Schoolbag].
+[08-04-23 01:56:45.228] 76561198082500592 "joaoZinBALATENSA" container -1 8414,11681,0 [Base.HandTorch].
+[08-04-23 01:57:06.229] 76561198082500592 "joaoZinBALATENSA" container -1 8422,11685,0 [Base.BookCooking5].
+[08-04-23 01:57:09.230] 76561198082500592 "joaoZinBALATENSA" container -1 8422,11685,0 [Base.ElectronicsMag1].
+[08-04-23 01:57:14.631] 76561199070860042 "f1_dvd" container -2 8327,11813,0 [Base.DishCloth, Base.TunaTin].
+[08-04-23 01:57:16.888] 76561198045199544 "Tomioka" container -1 8418,11680,0 [Base.BoobTube].
+[08-04-23 01:57:17.641] 76561199070860042 "f1_dvd" container -4 8327,11813,0 [Base.CannedBolognese, Base.CannedPotato2].
+[08-04-23 01:57:20.629] 76561199070860042 "f1_dvd" container -3 8327,11813,0 [Base.CannedMushroomSoup, Base.Dogfood, Base.CannedSardines].
+[08-04-23 01:57:23.641] 76561199070860042 "f1_dvd" container -2 8327,11813,0 [Base.CannedCorn, Base.CannedChili].
+[08-04-23 01:57:29.646] 76561199070860042 "f1_dvd" container -1 8324,11813,0 [Base.TinOpener].
+[08-04-23 01:57:32.635] 76561199070860042 "f1_dvd" container -1 8324,11813,0 [Base.MugWhite].
+[08-04-23 01:57:34.274] 76561198226339992 "monicao da 13" container -1 8075,11733,0 [Base.Pencil].
+[08-04-23 01:57:35.630] 76561199070860042 "f1_dvd" container -1 8324,11814,0 [Base.Processedcheese].
+[08-04-23 01:57:37.276] 76561198226339992 "monicao da 13" container -2 8075,11733,0 [Base.WhiskeyFull, Base.Eraser].
+[08-04-23 01:57:42.129] 76561199070860042 "f1_dvd" floor +1 8326,11814,0 [Base.DishCloth].
+[08-04-23 01:57:43.278] 76561198226339992 "monicao da 13" container -2 8072,11733,0 [Base.Matches].
+[08-04-23 01:57:55.266] 76561198226339992 "monicao da 13" container -20 8070,11735,0 [Base.Cigarettes].
+[08-04-23 01:58:01.264] 76561198226339992 "monicao da 13" container -1 8070,11738,0 [Base.Matches].
+[08-04-23 01:58:05.690] 76561198045199544 "Tomioka" floor +1 8407,11685,0 [Base.Glasses_Reading].
+[08-04-23 01:58:07.268] 76561198226339992 "monicao da 13" container -2 8066,11737,0 [Base.Lighter].
+[08-04-23 01:58:10.260] 76561198226339992 "monicao da 13" container -20 8066,11737,0 [Base.Cigarettes].
+[08-04-23 01:58:11.276] 76561198082500592 "joaoZinBALATENSA" floor +1 8406,11685,0 [Base.Glasses_Reading].
+[08-04-23 01:58:14.639] 76561199070860042 "f1_dvd" container -1 8332,11816,0 [Base.Trousers_Denim].
+[08-04-23 01:58:16.261] 76561198226339992 "monicao da 13" container -1 8067,11735,0 [Base.PillsVitamins].
+[08-04-23 01:58:19.266] 76561198226339992 "monicao da 13" container -1 8067,11735,0 [Base.Matches].
+[08-04-23 01:58:51.300] 76561198226339992 "monicao da 13" floor +1 8067,11740,0 [Base.Glasses_Normal].
+[08-04-23 01:59:01.262] 76561198226339992 "monicao da 13" container -1 8067,11740,0 [Base.Shotgun].
+[08-04-23 01:59:04.266] 76561198226339992 "monicao da 13" container -1 8067,11740,0 [Base.HolsterDouble].
+[08-04-23 01:59:31.205] 76561198045199544 "Tomioka" floor +1 8379,11681,0 [Base.Glasses_Reading].
+[08-04-23 01:59:54.245] 76561198082500592 "joaoZinBALATENSA" container -1 8385,11681,0 [Base.Tshirt_DefaultTEXTURE_TINT].
+[08-04-23 01:59:57.240] 76561198082500592 "joaoZinBALATENSA" container -1 8385,11681,0 [Base.Socks_Ankle].
+[08-04-23 02:00:13.780] 76561198307998488 "DeIL ??" container -1 8418,11680,0 [Base.Trousers_DefaultTEXTURE_TINT].
+[08-04-23 02:00:14.632] 76561199070860042 "f1_dvd" container -1 8358,11809,0 [Base.Vest_DefaultTEXTURE_TINT].
+[08-04-23 02:00:19.766] 76561198307998488 "DeIL ??" container -1 8418,11679,0 [Base.Vest_DefaultTEXTURE_TINT].
+[08-04-23 02:00:49.273] 76561198226339992 "monicao da 13" container -1 8051,11724,0 [Base.Vest_BulletPolice].
+[08-04-23 02:01:04.261] 76561198226339992 "monicao da 13" container -1 8052,11728,0 [Base.Hat_CrashHelmet_Police].
+[08-04-23 02:01:16.262] 76561198226339992 "monicao da 13" container -1 8049,11728,0 [Base.Lunchbag].
+[08-04-23 02:02:13.276] 76561198226339992 "monicao da 13" container -1 8058,11724,0 [Base.Bag_FannyPackFront].
+[08-04-23 02:02:55.607] 76561198045199544 "Tomioka" floor +1 8328,11696,0 [Base.Hat_BaseballCapKY].
+[08-04-23 02:03:12.237] 76561198082500592 "joaoZinBALATENSA" container -1 8330,11693,0 [Base.CannedPineapple].
+[08-04-23 02:03:15.247] 76561198082500592 "joaoZinBALATENSA" container -1 8330,11693,0 [Base.CannedCarrots2].
+[08-04-23 02:03:16.884] 76561198045199544 "Tomioka" container -1 8328,11694,0 [Base.Orange].
+[08-04-23 02:03:17.075] 76561198082500592 "joaoZinBALATENSA" container -1 8330,11693,0 [Base.CannedSardines].
+[08-04-23 02:03:22.886] 76561198045199544 "Tomioka" container -2 8328,11696,0 [Base.Tshirt_PoloTINT, Base.Socks_Ankle].
+[08-04-23 02:03:25.883] 76561198045199544 "Tomioka" container -1 8328,11696,0 [Base.Shorts_ShortFormal].
+[08-04-23 02:03:37.271] 76561198226339992 "monicao da 13" container -1 8063,11722,0 [Base.HolePuncher].
+[08-04-23 02:03:40.891] 76561198045199544 "Tomioka" container -1 8328,11693,0 [Base.Saucepan].
+[08-04-23 02:03:42.242] 76561198082500592 "joaoZinBALATENSA" container -1 8337,11696,0 [Base.Lighter].
+[08-04-23 02:03:44.625] 76561199070860042 "f1_dvd" container -1 8337,11696,0 [Base.Tshirt_DefaultTEXTURE_TINT].
+[08-04-23 02:03:46.272] 76561198226339992 "monicao da 13" container -1 8066,11722,0 [Base.x4Scope].
+[08-04-23 02:03:49.276] 76561198226339992 "monicao da 13" container -2 8066,11722,0 [Base.Pistol].
+[08-04-23 02:03:50.630] 76561199070860042 "f1_dvd" container -1 8337,11696,0 [Base.Underpants_Black].
+[08-04-23 02:03:52.267] 76561198226339992 "monicao da 13" container -2 8066,11722,0 [Base.Bullets9mmBox, Base.ShotgunShellsBox].
+[08-04-23 02:03:55.266] 76561198226339992 "monicao da 13" container -1 8066,11722,0 [Base.Bullets9mmBox].
+[08-04-23 02:03:55.295] 76561199070860042 "f1_dvd" floor +1 8337,11697,0 [Base.Underpants_Black].
+[08-04-23 02:03:58.266] 76561198226339992 "monicao da 13" container -1 8065,11722,0 [Base.M14Clip].
+[08-04-23 02:04:01.270] 76561198226339992 "monicao da 13" container -1 8065,11722,0 [Base.HolsterSimple].
+[08-04-23 02:04:04.276] 76561198226339992 "monicao da 13" container -1 8065,11722,0 [Base.ShotgunShellsBox].
+[08-04-23 02:04:07.276] 76561198226339992 "monicao da 13" container -2 8065,11722,0 [Base.AmmoStrap_Bullets].
+[08-04-23 02:04:10.266] 76561198226339992 "monicao da 13" container -2 8065,11722,0 [Base.AmmoStrap_Bullets, Base.308Box].
+[08-04-23 02:04:16.267] 76561198226339992 "monicao da 13" container -2 8067,11722,0 [Base.ShotgunShellsBox, Base.308Box].
+[08-04-23 02:04:19.267] 76561198226339992 "monicao da 13" container -1 8068,11722,0 [Base.308Box].
+[08-04-23 02:04:22.286] 76561198226339992 "monicao da 13" container -4 8068,11722,0 [Base.Bullets9mmBox, Base.ShotgunShellsBox].
+[08-04-23 02:04:46.281] 76561198226339992 "monicao da 13" container +0 8065,11722,0 [Base.PillsVitamins, Base.Bullets9mmBox, Base.Eraser, Base.HolsterDouble, Base.Pencil, Base.Matches, Base.Cigarettes, Base.Lighter].
+[08-04-23 02:04:49.267] 76561198226339992 "monicao da 13" container +0 8065,11722,0 [Base.Bullets9mmBox, Base.M14Clip, Base.x4Scope, Base.HolePuncher, Base.308Box].
+[08-04-23 02:04:52.269] 76561198226339992 "monicao da 13" container +0 8065,11722,0 [Base.WhiskeyFull, Base.ShotgunShellsBox, Base.308Box, Base.Lunchbag].
+[08-04-23 02:04:53.626] 76561199070860042 "f1_dvd" container -1 8328,11686,0 [Base.Vest_DefaultTEXTURE_TINT].
+[08-04-23 02:04:55.281] 76561198226339992 "monicao da 13" container +0 8065,11722,0 [Base.ShotgunShellsBox].
+[08-04-23 02:04:58.273] 76561198226339992 "monicao da 13" container +0 8065,11722,0 [Base.AmmoStrap_Bullets, Base.Hat_Police].
+[08-04-23 02:05:01.266] 76561198226339992 "monicao da 13" container +0 8065,11722,0 [Base.AmmoStrap_Bullets, Base.Pistol].
+[08-04-23 02:05:04.269] 76561198226339992 "monicao da 13" container +0 8065,11722,0 [Base.Pistol].
+[08-04-23 02:05:13.264] 76561198226339992 "monicao da 13" container +0 8065,11722,0 [Base.Shotgun].
+[08-04-23 02:05:16.263] 76561198226339992 "monicao da 13" container -1 8065,11722,0 [Base.Eraser].
+[08-04-23 02:05:22.273] 76561198226339992 "monicao da 13" container -41 8065,11722,0 [Base.WhiskeyFull, Base.Cigarettes].
+[08-04-23 02:05:25.265] 76561198226339992 "monicao da 13" container -1 8065,11722,0 [Base.HolsterDouble].
+[08-04-23 02:05:34.272] 76561198226339992 "monicao da 13" container -1 8065,11722,0 [Base.Pencil].
+[08-04-23 02:05:49.274] 76561198226339992 "monicao da 13" container -2 8065,11722,0 [Base.Pistol].
+[08-04-23 02:06:01.807] 76561198307998488 "DeIL ??" container -1 8312,11693,0 [Base.Book].
+[08-04-23 02:06:11.625] 76561199070860042 "f1_dvd" container -2 8304,11695,0 [farming.Strewberrie, Base.Apple].
+[08-04-23 02:06:12.246] 76561198082500592 "joaoZinBALATENSA" container -1 8305,11691,0 [Base.Book].
+[08-04-23 02:06:14.628] 76561199070860042 "f1_dvd" container -1 8304,11695,0 [Base.Cherry].
+[08-04-23 02:06:15.249] 76561198082500592 "joaoZinBALATENSA" container -5 8304,11691,0 [Base.HerbalistMag, Base.MechanicMag1, Base.Magazine, Base.ElectronicsMag2, Base.FarmingMag1].
+[08-04-23 02:06:17.630] 76561199070860042 "f1_dvd" container -1 8304,11695,0 [Base.Ham].
+[08-04-23 02:06:25.279] 76561198226339992 "monicao da 13" container -9 8065,11722,0 [Base.PillsVitamins, Base.Bullets9mmBox, Base.Matches, Base.Lighter].
+[08-04-23 02:06:26.223] 76561199070860042 "f1_dvd" floor +1 8307,11687,0 [Base.Hat_BaseballCapKY].
+[08-04-23 02:06:28.274] 76561198226339992 "monicao da 13" container -8 8065,11722,0 [Base.Bullets9mmBox, Base.M14Clip, Base.x4Scope, Base.HolePuncher, Base.308Box].
+[08-04-23 02:06:28.601] 76561199070860042 "f1_dvd" floor +1 8307,11686,0 [Base.Hat_Visor_WhiteTINT].
+[08-04-23 02:06:28.786] 76561198307998488 "DeIL ??" container -1 8304,11692,0 [Base.Hat_DustMask].
+[08-04-23 02:06:30.156] 76561198045199544 "Tomioka" floor +1 8307,11686,0 [Base.Hat_BaseballCapKY].
+[08-04-23 02:06:30.284] 76561198082500592 "joaoZinBALATENSA" floor +1 8306,11687,0 [Base.Glasses_Normal].
+[08-04-23 02:06:31.073] 76561199070860042 "f1_dvd" floor +1 8307,11687,0 [Base.Glasses_Normal].
+[08-04-23 02:06:31.266] 76561198226339992 "monicao da 13" container -4 8065,11722,0 [Base.ShotgunShellsBox, Base.308Box, Base.Lunchbag].
+[08-04-23 02:06:32.391] 76561198045199544 "Tomioka" floor +1 8306,11687,0 [Base.Glasses_Normal].
+[08-04-23 02:06:33.829] 76561198307998488 "DeIL ??" floor +1 8306,11686,0 [Base.Glasses_Normal].
+[08-04-23 02:06:34.269] 76561198226339992 "monicao da 13" container -3 8065,11722,0 [Base.ShotgunShellsBox, Base.Hat_Police].
+[08-04-23 02:06:37.270] 76561198226339992 "monicao da 13" container -3 8065,11722,0 [Base.AmmoStrap_Bullets].
+[08-04-23 02:06:40.274] 76561198226339992 "monicao da 13" container -1 8065,11722,0 [Base.Shotgun].
+[08-04-23 02:06:49.269] 76561198226339992 "monicao da 13" container +0 8065,11722,0 [Base.308Box].
+[08-04-23 02:06:55.271] 76561198226339992 "monicao da 13" container +0 8065,11722,0 [Base.AmmoStrap_Bullets].
+[08-04-23 02:06:58.280] 76561198226339992 "monicao da 13" container +0 8065,11722,0 [Base.AmmoStrap_Bullets].
+[08-04-23 02:07:04.775] 76561198307998488 "DeIL ??" container -1 8306,11680,0 [Base.WristWatch_Left_ClassicBlack].
+[08-04-23 02:07:10.278] 76561198226339992 "monicao da 13" container +0 8065,11722,0 [Base.ShotgunShellsBox].
+[08-04-23 02:07:11.247] 76561198307998488 "DeIL ??" floor +1 8306,11682,0 [Base.WristWatch_Left_ClassicBlack].
+[08-04-23 02:07:16.276] 76561198226339992 "monicao da 13" container +0 8065,11722,0 [Base.HolePuncher].
+[08-04-23 02:07:20.637] 76561199070860042 "f1_dvd" container -2 8300,11674,0 [Base.Tshirt_DefaultDECAL_TINT, Base.Socks_Ankle].
+[08-04-23 02:07:22.280] 76561198226339992 "monicao da 13" container +0 8065,11722,0 [Base.Shotgun].
+[08-04-23 02:07:23.638] 76561199070860042 "f1_dvd" container -1 8300,11674,0 [Base.Trousers_DefaultTEXTURE_TINT].
+[08-04-23 02:07:28.279] 76561198226339992 "monicao da 13" container +0 8065,11722,0 [Base.M14Clip].
+[08-04-23 02:07:34.276] 76561198226339992 "monicao da 13" container +0 8065,11722,0 [Base.Hat_Police].
+[08-04-23 02:07:37.269] 76561198226339992 "monicao da 13" container +0 8065,11722,0 [Base.x4Scope].
+[08-04-23 02:07:42.538] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.TinOpener].
+[08-04-23 02:07:45.615] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.TinOpener].
+[08-04-23 02:07:49.781] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:49.800] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:49.801] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:49.802] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:49.804] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:49.805] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:49.807] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:49.809] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:49.810] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:49.811] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:49.812] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:54.112] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:54.112] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:54.112] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:54.113] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:54.113] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:54.113] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:54.113] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:54.113] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:54.114] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:54.114] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:54.114] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.RippedSheets].
+[08-04-23 02:07:58.076] 76561198082500592 "joaoZinBALATENSA" floor +1 8307,11694,0 [Base.RippedSheetsDirty].
+[08-04-23 02:08:10.037] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.Processedcheese].
+[08-04-23 02:08:10.056] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.Thread].
+[08-04-23 02:08:10.073] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [farming.Strewberrie].
+[08-04-23 02:08:10.080] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.Socks_Ankle].
+[08-04-23 02:08:10.121] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.Apple].
+[08-04-23 02:08:10.155] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.TunaTin].
+[08-04-23 02:08:10.192] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.Cherry].
+[08-04-23 02:08:10.282] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.CannedPotato2].
+[08-04-23 02:08:10.383] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.CannedPotato2].
+[08-04-23 02:08:10.473] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.CannedBolognese].
+[08-04-23 02:08:10.557] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.CannedBolognese].
+[08-04-23 02:08:10.667] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.Dogfood].
+[08-04-23 02:08:10.763] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.CannedMushroomSoup].
+[08-04-23 02:08:10.859] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.CannedSardines].
+[08-04-23 02:08:10.947] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.CannedChili].
+[08-04-23 02:08:11.047] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.CannedCorn].
+[08-04-23 02:08:11.157] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.WaterMugWhite].
+[08-04-23 02:08:11.266] 76561199070860042 "f1_dvd" floor +1 8307,11693,0 [Base.Trousers_DefaultTEXTURE_TINT].
+[08-04-23 02:08:12.255] 76561198082500592 "joaoZinBALATENSA" container -1 8312,11693,0 [Base.BookFarming2].
+[08-04-23 02:08:27.153] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.Apple].
+[08-04-23 02:08:27.996] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.Dogfood].
+[08-04-23 02:08:28.823] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.CannedSardines].
+[08-04-23 02:08:29.680] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.CannedMushroomSoup].
+[08-04-23 02:08:32.433] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [farming.Strewberrie].
+[08-04-23 02:08:32.540] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.Processedcheese].
+[08-04-23 02:08:32.640] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.Socks_Ankle].
+[08-04-23 02:08:33.692] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.Trousers_DefaultTEXTURE_TINT].
+[08-04-23 02:08:36.975] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.CannedChili].
+[08-04-23 02:08:37.272] 76561198226339992 "monicao da 13" container -1 8072,11730,0 [Base.WhiskeyFull].
+[08-04-23 02:08:37.820] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.CannedBolognese].
+[08-04-23 02:08:38.654] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.CannedBolognese].
+[08-04-23 02:08:39.497] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.CannedCorn].
+[08-04-23 02:08:43.268] 76561198226339992 "monicao da 13" container -1 8072,11733,0 [Base.MagazineWordsearch3].
+[08-04-23 02:08:43.795] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.Shorts_ShortFormal].
+[08-04-23 02:08:43.804] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.TunaTin].
+[08-04-23 02:08:44.216] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.RollingPin].
+[08-04-23 02:08:44.661] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.CannedPotato2].
+[08-04-23 02:08:45.026] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.ElectronicsMag3].
+[08-04-23 02:08:45.492] 76561198082500592 "joaoZinBALATENSA" floor -1 8307,11693,0 [Base.CannedPotato2].
+[08-04-23 02:08:45.522] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.PepperJalapeno].
+[08-04-23 02:08:46.349] 76561199070860042 "f1_dvd" floor +1 8338,11673,0 [Base.Glasses_Reading].
+[08-04-23 02:08:46.540] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.Pickles].
+[08-04-23 02:08:47.341] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.RippedSheets].
+[08-04-23 02:08:47.342] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.RippedSheets].
+[08-04-23 02:08:47.343] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.RippedSheets].
+[08-04-23 02:08:47.862] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.Socks_Ankle].
+[08-04-23 02:08:48.615] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.Orange].
+[08-04-23 02:08:49.479] 76561198307998488 "DeIL ??" floor -1 8307,11694,0 [Base.RippedSheetsDirty].
+[08-04-23 02:08:49.494] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.Tshirt_PoloTINT].
+[08-04-23 02:08:49.920] 76561198307998488 "DeIL ??" floor -1 8307,11693,0 [Base.Thread].
+[08-04-23 02:08:50.025] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.Book].
+[08-04-23 02:08:50.489] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.JuiceBox].
+[08-04-23 02:08:51.093] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.KeyRing].
+[08-04-23 02:08:51.181] 76561198307998488 "DeIL ??" floor -1 8307,11693,0 [Base.Cherry].
+[08-04-23 02:08:53.246] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.Shirt_Scrubs].
+[08-04-23 02:08:54.535] 76561198307998488 "DeIL ??" floor -1 8307,11693,0 [Base.WaterMugWhite].
+[08-04-23 02:08:54.641] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.Vest_DefaultTEXTURE_TINT].
+[08-04-23 02:08:56.143] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.Shoes_TrainerTINT].
+[08-04-23 02:08:58.276] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.Socks_Ankle].
+[08-04-23 02:09:00.425] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.Belt2].
+[08-04-23 02:09:00.939] 76561198082500592 "joaoZinBALATENSA" floor -1 8308,11691,0 [Base.ElectronicsMag3].
+[08-04-23 02:09:01.466] 76561198082500592 "joaoZinBALATENSA" floor -1 8308,11691,0 [Base.Book].
+[08-04-23 02:09:02.661] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.Tshirt_PoloStripedTINT].
+[08-04-23 02:09:03.818] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.Trousers_Scrubs].
+[08-04-23 02:09:03.894] 76561198045199544 "Tomioka" floor +1 8308,11691,0 [Base.Saucepan].
+[08-04-23 02:09:07.614] 76561198082500592 "joaoZinBALATENSA" floor -1 8308,11691,0 [Base.RippedSheets].
+[08-04-23 02:09:07.614] 76561198082500592 "joaoZinBALATENSA" floor -1 8308,11691,0 [Base.RippedSheets].
+[08-04-23 02:09:07.614] 76561198082500592 "joaoZinBALATENSA" floor -1 8308,11691,0 [Base.RippedSheets].
+[08-04-23 02:09:33.301] 76561198082500592 "joaoZinBALATENSA" floor -1 8308,11691,0 [Base.Saucepan].
+[08-04-23 02:09:55.623] 76561198045199544 "Tomioka" floor +1 8316,11632,0 [Base.Glasses_Reading].
+[08-04-23 02:10:22.409] 76561198082500592 "joaoZinBALATENSA" floor +1 8290,11703,0 [Base.Hat_BaseballCapKY].
+[08-04-23 02:10:47.629] 76561199070860042 "f1_dvd" container -1 8288,11702,0 [Base.Socks_Ankle].
+[08-04-23 02:10:50.634] 76561199070860042 "f1_dvd" container -1 8288,11702,0 [Base.Shorts_ShortFormal].
+[08-04-23 02:10:52.797] 76561198307998488 "DeIL ??" container -1 8291,11703,0 [Base.JacketLong_Random].
+[08-04-23 02:10:59.718] 76561198082500592 "joaoZinBALATENSA" floor +1 8285,11694,0 [Base.TunaTin].
+[08-04-23 02:11:01.723] 76561198082500592 "joaoZinBALATENSA" floor +1 8285,11694,0 [Base.CannedPotato2].
+[08-04-23 02:11:03.733] 76561198082500592 "joaoZinBALATENSA" floor +1 8285,11694,0 [Base.CannedPotato2].
+[08-04-23 02:11:05.735] 76561198082500592 "joaoZinBALATENSA" floor +1 8285,11694,0 [Base.CannedChili].
+[08-04-23 02:11:07.739] 76561198082500592 "joaoZinBALATENSA" floor +1 8285,11694,0 [Base.CannedBolognese].
+[08-04-23 02:11:09.739] 76561198082500592 "joaoZinBALATENSA" floor +1 8285,11694,0 [Base.CannedBolognese].
+[08-04-23 02:11:10.249] 76561199070860042 "f1_dvd" floor -1 8285,11694,0 [Base.TunaTin].
+[08-04-23 02:11:11.081] 76561199070860042 "f1_dvd" floor -1 8285,11694,0 [Base.CannedPotato2].
+[08-04-23 02:11:11.741] 76561198082500592 "joaoZinBALATENSA" floor +1 8285,11694,0 [Base.CannedCorn].
+[08-04-23 02:11:11.940] 76561199070860042 "f1_dvd" floor -1 8285,11694,0 [Base.CannedPotato2].
+[08-04-23 02:11:12.779] 76561199070860042 "f1_dvd" floor -1 8285,11694,0 [Base.CannedChili].
+[08-04-23 02:11:13.617] 76561199070860042 "f1_dvd" floor -1 8285,11694,0 [Base.CannedBolognese].
+[08-04-23 02:11:13.750] 76561198082500592 "joaoZinBALATENSA" floor +1 8285,11694,0 [Base.Dogfood].
+[08-04-23 02:11:14.465] 76561199070860042 "f1_dvd" floor -1 8285,11694,0 [Base.CannedBolognese].
+[08-04-23 02:11:15.769] 76561198082500592 "joaoZinBALATENSA" floor +1 8285,11694,0 [Base.CannedSardines].
+[08-04-23 02:11:17.519] 76561199070860042 "f1_dvd" floor -1 8285,11694,0 [Base.CannedCorn].
+[08-04-23 02:11:18.369] 76561199070860042 "f1_dvd" floor -1 8285,11694,0 [Base.Dogfood].
+[08-04-23 02:11:18.771] 76561198082500592 "joaoZinBALATENSA" floor +1 8285,11694,0 [Base.TinOpener].
+[08-04-23 02:11:19.245] 76561199070860042 "f1_dvd" floor -1 8285,11694,0 [Base.CannedSardines].
+[08-04-23 02:11:20.733] 76561199070860042 "f1_dvd" floor -1 8285,11694,0 [Base.TinOpener].
+[08-04-23 02:11:22.788] 76561198307998488 "DeIL ??" container -1 8283,11690,0 [Base.HandTorch].
+[08-04-23 02:11:27.262] 76561198082500592 "joaoZinBALATENSA" container -1 8281,11690,0 [Base.MechanicMag3].
+[08-04-23 02:11:35.626] 76561199070860042 "f1_dvd" container -1 8279,11692,0 [Base.Kettle].
+[08-04-23 02:11:39.259] 76561198082500592 "joaoZinBALATENSA" container -1 8279,11695,0 [Base.TinOpener].
+[08-04-23 02:11:42.260] 76561198082500592 "joaoZinBALATENSA" container -1 8279,11695,0 [Base.CannedPeaches].
+[08-04-23 02:11:45.261] 76561198082500592 "joaoZinBALATENSA" container -1 8279,11695,0 [Base.CannedCornedBeef].
+[08-04-23 02:11:48.260] 76561198082500592 "joaoZinBALATENSA" container -1 8279,11695,0 [Base.CannedPotato2].
+[08-04-23 02:11:49.817] 76561198307998488 "DeIL ??" container -3 8280,11695,0 [Base.Pickles, Base.Lime, Base.Cherry].
+[08-04-23 02:11:55.793] 76561198307998488 "DeIL ??" container -1 8280,11695,0 [Base.Milk].
+[08-04-23 02:11:56.636] 76561199070860042 "f1_dvd" container -2 8279,11695,0 [Base.CannedMushroomSoup, Base.CannedSardines].
+[08-04-23 02:12:02.377] 76561198082500592 "joaoZinBALATENSA" floor +1 8282,11692,0 [Base.CannedPeaches].
+[08-04-23 02:12:04.617] 76561198082500592 "joaoZinBALATENSA" floor +1 8282,11692,0 [Base.CannedCarrots2].
+[08-04-23 02:12:16.192] 76561199070860042 "f1_dvd" floor +1 8280,11693,0 [Base.DogfoodOpen].
+[08-04-23 02:12:52.788] 76561198307998488 "DeIL ??" container -1 8284,11690,0 [Base.BookElectrician1].
+[08-04-23 02:13:08.633] 76561199070860042 "f1_dvd" container -1 8279,11692,0 [Base.GridlePan].
+[08-04-23 02:13:20.054] 76561199070860042 "f1_dvd" floor +1 8274,11694,0 [Base.TinCanEmpty].
+[08-04-23 02:13:25.319] 76561198307998488 "DeIL ??" floor +1 8276,11692,0 [Base.RippedSheetsDirty].
+[08-04-23 02:13:43.278] 76561198226339992 "monicao da 13" container -1 8002,11548,0 [Base.BookFirstAid2].
+[08-04-23 02:13:47.125] 76561198045199544 "Tomioka" floor -1 8308,11691,0 [Base.Shorts_ShortFormal].
+[08-04-23 02:13:53.799] 76561198045199544 "Tomioka" floor -1 8308,11691,0 [Base.JuiceBox].
+[08-04-23 02:13:53.956] 76561199070860042 "f1_dvd" floor +1 8274,11721,0 [Base.Glasses_Normal].
+[08-04-23 02:13:58.169] 76561198045199544 "Tomioka" floor -1 8308,11691,0 [Base.RollingPin].
+[08-04-23 02:14:03.965] 76561198045199544 "Tomioka" floor -1 8308,11691,0 [Base.Shirt_Scrubs].
+[08-04-23 02:14:07.271] 76561198226339992 "monicao da 13" container -2 8005,11545,0 [Base.BookCooking3, Base.BluePen].
+[08-04-23 02:14:08.644] 76561199070860042 "f1_dvd" container -2 8274,11721,0 [Base.Socks_Ankle, Base.Trousers_Ranger].
+[08-04-23 02:14:09.765] 76561198226339992 "monicao da 13" floor +1 8006,11546,0 [Base.Hat_BaseballCap].
+[08-04-23 02:14:12.578] 76561198226339992 "monicao da 13" floor +1 8004,11546,0 [Base.Hat_Fedora].
+[08-04-23 02:14:17.016] 76561198045199544 "Tomioka" floor -1 8308,11691,0 [Base.PepperJalapeno].
+[08-04-23 02:14:19.398] 76561198045199544 "Tomioka" floor -1 8308,11691,0 [Base.Pickles].
+[08-04-23 02:14:21.782] 76561198045199544 "Tomioka" floor -1 8308,11691,0 [Base.Socks_Ankle].
+[08-04-23 02:14:21.792] 76561198045199544 "Tomioka" floor -1 8308,11691,0 [Base.Socks_Ankle].
+[08-04-23 02:14:24.267] 76561198045199544 "Tomioka" floor -1 8308,11691,0 [Base.Orange].
+[08-04-23 02:14:25.031] 76561198045199544 "Tomioka" floor -1 8308,11691,0 [Base.KeyRing].
+[08-04-23 02:14:27.001] 76561198045199544 "Tomioka" floor -1 8308,11691,0 [Base.Vest_DefaultTEXTURE_TINT].
+[08-04-23 02:14:29.517] 76561198045199544 "Tomioka" floor -1 8308,11691,0 [Base.Shoes_TrainerTINT].
+[08-04-23 02:14:31.100] 76561198045199544 "Tomioka" floor -1 8308,11691,0 [Base.Belt2].
+[08-04-23 02:14:35.643] 76561199070860042 "f1_dvd" container -2 8289,11726,0 [farming.Cabbage, Base.Apple].
+[08-04-23 02:14:38.631] 76561199070860042 "f1_dvd" container -1 8289,11726,0 [Base.Processedcheese].
+[08-04-23 02:14:39.051] 76561198082500592 "joaoZinBALATENSA" container -1 8288,11719,0 [Base.MoleyMole].
+[08-04-23 02:14:40.828] 76561198307998488 "DeIL ??" container -1 8284,11721,0 [Base.Hammer].
+[08-04-23 02:14:41.630] 76561199070860042 "f1_dvd" container -1 8289,11729,0 [Base.MugWhite].
+[08-04-23 02:14:44.643] 76561199070860042 "f1_dvd" container -2 8289,11729,0 [Base.GlassTumbler, Base.Bowl].
+[08-04-23 02:14:48.254] 76561198082500592 "joaoZinBALATENSA" container -1 8288,11721,0 [Base.BookMetalWelding1].
+[08-04-23 02:15:04.284] 76561198226339992 "monicao da 13" container -1 8004,11544,1 [Base.GuitarElectricBlack].
+[08-04-23 02:15:07.279] 76561198226339992 "monicao da 13" container -1 8004,11544,1 [Base.Bag_FannyPackFront].
+[08-04-23 02:16:28.280] 76561198226339992 "monicao da 13" container -1 8004,11554,0 [Base.WoodAxe].
+[08-04-23 02:16:43.277] 76561198226339992 "monicao da 13" container -1 8004,11554,0 [Base.Shovel2].
+[08-04-23 02:16:47.635] 76561199070860042 "f1_dvd" container -1 8252,11686,0 [Base.TinnedBeans].
+[08-04-23 02:16:58.795] 76561198307998488 "DeIL ??" container -1 8252,11686,0 [Base.TomatoPaste].
+[08-04-23 02:17:04.793] 76561198307998488 "DeIL ??" container -1 8251,11686,0 [Base.Lime].
+[08-04-23 02:17:36.254] 76561198082500592 "joaoZinBALATENSA" container -2 8246,11718,0 [Base.TinnedSoup, Base.CannedFruitCocktail].
+[08-04-23 02:17:39.282] 76561198082500592 "joaoZinBALATENSA" container -2 8246,11718,0 [Base.CannedMushroomSoup, Base.CannedTomato2].
+[08-04-23 02:17:46.889] 76561198045199544 "Tomioka" container -1 8244,11716,0 [Base.Onion].
+[08-04-23 02:17:48.269] 76561198082500592 "joaoZinBALATENSA" container +0 8246,11718,0 [Base.CannedPineapple].
+[08-04-23 02:17:58.893] 76561198045199544 "Tomioka" container -1 8246,11716,0 [Base.Pan].
+[08-04-23 02:18:49.817] 76561198307998488 "DeIL ??" container -1 8227,11712,0 [Base.HandTorch].
+[08-04-23 02:19:06.509] 76561198226339992 "monicao da 13" floor +1 8172,11608,0 [Base.Glasses_Sun].
+[08-04-23 02:19:10.793] 76561198307998488 "DeIL ??" container -1 8226,11712,0 [Base.MetalPipe].
+[08-04-23 02:19:31.897] 76561198226339992 "monicao da 13" floor +1 8173,11612,0 [Base.WoodAxe].
+[08-04-23 02:19:42.153] 76561198045199544 "Tomioka" floor +1 8167,11639,0 [Base.UnusableWood].
+[08-04-23 02:19:42.155] 76561198045199544 "Tomioka" floor +1 8167,11639,0 [Base.Doorknob].
+[08-04-23 02:19:42.156] 76561198045199544 "Tomioka" floor +1 8167,11639,0 [Base.Hinge].
+[08-04-23 02:19:42.158] 76561198045199544 "Tomioka" floor +1 8167,11639,0 [Base.Hinge].
+[08-04-23 02:20:40.287] 76561198226339992 "monicao da 13" container -2 8075,11733,0 [Base.RedPen].
+[08-04-23 02:20:51.480] 76561199070860042 "f1_dvd" floor +1 8293,11722,0 [Base.UnusableWood].
+[08-04-23 02:20:51.481] 76561199070860042 "f1_dvd" floor +1 8293,11722,0 [Base.UnusableWood].
+[08-04-23 02:20:51.482] 76561199070860042 "f1_dvd" floor +1 8293,11722,0 [Base.Doorknob].
+[08-04-23 02:21:14.734] 76561198045199544 "Tomioka" floor +1 8168,11633,0 [Base.UnusableWood].
+[08-04-23 02:21:14.735] 76561198045199544 "Tomioka" floor +1 8168,11633,0 [Base.Doorknob].
+[08-04-23 02:21:14.736] 76561198045199544 "Tomioka" floor +1 8168,11633,0 [Base.Hinge].
+[08-04-23 02:21:14.737] 76561198045199544 "Tomioka" floor +1 8168,11633,0 [Base.Hinge].
+[08-04-23 02:22:00.838] 76561198082500592 "joaoZinBALATENSA" floor +1 8268,11731,0 [Base.Glasses_Sun].
+[08-04-23 02:22:02.886] 76561199070860042 "f1_dvd" floor +1 8269,11731,0 [Base.Glasses_Sun].
+[08-04-23 02:22:14.644] 76561199070860042 "f1_dvd" container -2 8267,11729,0 [Base.Tshirt_DefaultDECAL_TINT, Base.Socks_Ankle].
+[08-04-23 02:23:11.967] 76561198226339992 "monicao da 13" floor +1 8075,11744,0 [Base.Hat_BaseballCap].
+[08-04-23 02:24:18.206] 76561198082500592 "joaoZinBALATENSA" floor +1 8169,11761,0 [Base.Hat_BaseballCap].
+[08-04-23 02:24:18.554] 76561199070860042 "f1_dvd" floor +1 8168,11760,0 [Base.Hat_Visor_WhiteTINT].
+[08-04-23 02:24:20.391] 76561199070860042 "f1_dvd" floor +1 8168,11760,0 [Base.Hat_BaseballCap].
+[08-04-23 02:24:43.285] 76561198226339992 "monicao da 13" container -1 8128,11624,0 [Base.Yeast].
+[08-04-23 02:24:46.292] 76561198226339992 "monicao da 13" container -2 8128,11622,0 [Base.Pickles, Base.Chicken].
+[08-04-23 02:24:52.286] 76561198226339992 "monicao da 13" container -2 8127,11624,0 [Base.CannedCorn, Base.CannedFruitCocktail].
+[08-04-23 02:24:55.295] 76561198226339992 "monicao da 13" container -2 8127,11624,0 [Base.CannedPeaches, Base.CannedTomato2].
+[08-04-23 02:24:58.292] 76561198226339992 "monicao da 13" container -1 8127,11624,0 [Base.TinnedSoup].
+[08-04-23 02:24:59.632] 76561199070860042 "f1_dvd" container -1 8180,11763,0 [Base.Socks_Ankle].
+[08-04-23 02:25:01.294] 76561198226339992 "monicao da 13" container -1 8125,11624,0 [Base.TinOpener].
+[08-04-23 02:25:10.834] 76561198307998488 "DeIL ??" container -1 8168,11760,0 [Base.Tshirt_DefaultTEXTURE_TINT].
+[08-04-23 02:25:11.638] 76561199070860042 "f1_dvd" container -2 8175,11757,0 [Base.Tshirt_PoloTINT, Base.Socks_Ankle].
+[08-04-23 02:25:13.889] 76561198045199544 "Tomioka" container -1 8179,11760,0 [Base.Dress_Knees].
+[08-04-23 02:25:16.291] 76561198226339992 "monicao da 13" container -1 8126,11617,0 [Base.BookTailoring5].
+[08-04-23 02:25:19.291] 76561198226339992 "monicao da 13" container -3 8126,11617,0 [Base.BookTailoring3, Base.BookMetalWelding1, Base.RedPen].
+[08-04-23 02:25:31.883] 76561198045199544 "Tomioka" container -1 8179,11760,0 [Base.JacketLong_Random].
+[08-04-23 02:25:43.293] 76561198226339992 "monicao da 13" container -1 8126,11619,1 [Base.BaseballBat].
+[08-04-23 02:25:43.890] 76561198045199544 "Tomioka" container -1 8179,11760,0 [Base.Shoes_Random].
+[08-04-23 02:25:58.304] 76561198226339992 "monicao da 13" container -1 8124,11621,1 [Base.Bag_FannyPackFront].
+[08-04-23 02:26:07.290] 76561198226339992 "monicao da 13" container -2 8123,11624,1 [Base.PillsSleepingTablets].
+[08-04-23 02:26:28.293] 76561198226339992 "monicao da 13" container -1 8123,11619,1 [Base.Pen].
+[08-04-23 02:26:28.377] 76561198045199544 "Tomioka" floor +1 8143,11766,0 [Base.Glasses_Reading].
+[08-04-23 02:26:44.637] 76561199070860042 "f1_dvd" container -1 8142,11765,0 [Base.Socks_Long].
+[08-04-23 02:26:46.809] 76561198307998488 "DeIL ??" container -1 8142,11765,0 [Base.ButterKnife].
+[08-04-23 02:26:48.287] 76561198082500592 "joaoZinBALATENSA" container -1 8142,11765,0 [Base.Jacket_Fireman].
+[08-04-23 02:26:53.630] 76561199070860042 "f1_dvd" container -1 8143,11766,0 [Base.Socks_Long].
+[08-04-23 02:26:54.281] 76561198082500592 "joaoZinBALATENSA" container -1 8142,11765,0 [Base.Trousers_Fireman].
+[08-04-23 02:26:55.818] 76561198307998488 "DeIL ??" container -1 8142,11765,0 [Base.Shoes_ArmyBoots].
+[08-04-23 02:27:07.675] 76561198082500592 "joaoZinBALATENSA" floor +1 8142,11768,0 [Base.HandTorch].
+[08-04-23 02:27:07.719] 76561198082500592 "joaoZinBALATENSA" floor +1 8142,11768,0 [Base.Book].
+[08-04-23 02:27:07.776] 76561198082500592 "joaoZinBALATENSA" floor +1 8142,11768,0 [Base.Book].
+[08-04-23 02:27:07.859] 76561198082500592 "joaoZinBALATENSA" floor +1 8142,11768,0 [Base.CannedSardines].
+[08-04-23 02:27:07.949] 76561198082500592 "joaoZinBALATENSA" floor +1 8142,11768,0 [Base.BookFarming2].
+[08-04-23 02:27:08.056] 76561198082500592 "joaoZinBALATENSA" floor +1 8142,11768,0 [Base.BookCooking5].
+[08-04-23 02:27:11.502] 76561198082500592 "joaoZinBALATENSA" floor -1 8142,11768,0 [Base.HandTorch].
+[08-04-23 02:27:22.325] 76561198307998488 "DeIL ??" floor +1 8143,11765,0 [Base.Thread].
+[08-04-23 02:27:29.970] 76561198082500592 "joaoZinBALATENSA" floor +1 8142,11768,0 [Base.ElectronicsMag1].
+[08-04-23 02:27:31.151] 76561198082500592 "joaoZinBALATENSA" floor +1 8142,11768,0 [Base.ElectronicsMag3].
+[08-04-23 02:27:32.195] 76561198307998488 "DeIL ??" floor +1 8143,11765,0 [Base.KeyRing].
+[08-04-23 02:27:32.262] 76561198082500592 "joaoZinBALATENSA" floor +1 8142,11768,0 [Base.ElectronicsMag2].
+[08-04-23 02:27:33.344] 76561198082500592 "joaoZinBALATENSA" floor +1 8142,11768,0 [Base.FarmingMag1].
+[08-04-23 02:27:36.424] 76561198082500592 "joaoZinBALATENSA" floor -1 8142,11768,0 [Base.FarmingMag1].
+[08-04-23 02:27:36.526] 76561198082500592 "joaoZinBALATENSA" floor -1 8142,11768,0 [Base.ElectronicsMag1].
+[08-04-23 02:27:36.633] 76561198082500592 "joaoZinBALATENSA" floor -1 8142,11768,0 [Base.ElectronicsMag2].
+[08-04-23 02:27:36.711] 76561198045199544 "Tomioka" floor +1 8130,11751,0 [Base.UnusableWood].
+[08-04-23 02:27:36.712] 76561198045199544 "Tomioka" floor +1 8130,11751,0 [Base.Doorknob].
+[08-04-23 02:27:36.743] 76561198082500592 "joaoZinBALATENSA" floor -1 8142,11768,0 [Base.ElectronicsMag3].
+[08-04-23 02:27:37.281] 76561198082500592 "joaoZinBALATENSA" floor -1 8142,11768,0 [Base.Book].
+[08-04-23 02:27:37.797] 76561198082500592 "joaoZinBALATENSA" floor -1 8142,11768,0 [Base.Book].
+[08-04-23 02:27:37.851] 76561199070860042 "f1_dvd" floor +1 8147,11770,0 [Base.Thread].
+[08-04-23 02:27:37.852] 76561199070860042 "f1_dvd" floor +1 8147,11770,0 [Base.Thread].
+[08-04-23 02:27:38.632] 76561198082500592 "joaoZinBALATENSA" floor -1 8142,11768,0 [Base.BookFarming2].
+[08-04-23 02:27:39.466] 76561198082500592 "joaoZinBALATENSA" floor -1 8142,11768,0 [Base.BookCooking5].
+[08-04-23 02:27:40.300] 76561198082500592 "joaoZinBALATENSA" floor -1 8142,11768,0 [Base.CannedSardines].
+[08-04-23 02:27:49.941] 76561198082500592 "joaoZinBALATENSA" floor +1 8137,11764,0 [Base.MechanicMag1].
+[08-04-23 02:27:58.317] 76561199070860042 "f1_dvd" floor +1 8146,11771,0 [Base.TinCanEmpty].
+[08-04-23 02:28:01.833] 76561198307998488 "DeIL ??" container -1 8142,11765,0 [Base.Vest_DefaultTEXTURE_TINT].
+[08-04-23 02:28:25.307] 76561198226339992 "monicao da 13" container -1 8126,11590,1 [Base.BookFirstAid3].
+[08-04-23 02:28:28.292] 76561198226339992 "monicao da 13" container -2 8126,11590,1 [Base.BookFarming2, Base.BookTailoring4].
+[08-04-23 02:28:28.466] 76561198082500592 "joaoZinBALATENSA" floor +1 8136,11764,0 [Base.Magazine].
+[08-04-23 02:28:28.471] 76561198082500592 "joaoZinBALATENSA" floor +1 8136,11764,0 [Base.MechanicMag3].
+[08-04-23 02:28:28.488] 76561198082500592 "joaoZinBALATENSA" floor +1 8136,11764,0 [Base.HerbalistMag].
+[08-04-23 02:28:28.544] 76561198045199544 "Tomioka" floor +1 8131,11752,0 [Base.Glasses_Normal].
+[08-04-23 02:28:30.544] 76561199070860042 "f1_dvd" floor +1 8131,11753,0 [Base.Glasses_Normal].
+[08-04-23 02:28:31.288] 76561198226339992 "monicao da 13" container -1 8126,11590,1 [Base.BookMetalWelding5].
+[08-04-23 02:28:41.640] 76561199070860042 "f1_dvd" container -1 8131,11751,0 [Base.Jacket_Fireman].
+[08-04-23 02:28:43.770] 76561198082500592 "joaoZinBALATENSA" floor +1 8131,11753,0 [Base.Glasses_Normal].
+[08-04-23 02:28:44.643] 76561199070860042 "f1_dvd" container -1 8131,11751,0 [Base.Trousers_Fireman].
+[08-04-23 02:28:46.284] 76561198226339992 "monicao da 13" container +0 8126,11590,1 [Base.BookMetalWelding5].
+[08-04-23 02:28:49.294] 76561198226339992 "monicao da 13" container +0 8126,11590,1 [Base.BookTailoring3, Base.BookMetalWelding1].
+[08-04-23 02:28:50.632] 76561199070860042 "f1_dvd" container -2 8131,11751,0 [Base.Socks_Long, Base.Shoes_ArmyBoots].
+[08-04-23 02:28:52.293] 76561198226339992 "monicao da 13" container +0 8126,11590,1 [Base.BookTailoring4].
+[08-04-23 02:28:55.299] 76561198226339992 "monicao da 13" container +0 8126,11590,1 [Base.BookTailoring5].
+[08-04-23 02:28:58.301] 76561198226339992 "monicao da 13" container +0 8126,11590,1 [Base.BookFarming2].
+[08-04-23 02:29:06.909] 76561199070860042 "f1_dvd" floor +1 8131,11754,0 [Base.Shoes_TrainerTINT].
+[08-04-23 02:29:19.291] 76561198226339992 "monicao da 13" container -1 8124,11592,1 [Base.PillsVitamins].
+[08-04-23 02:29:23.882] 76561198082500592 "joaoZinBALATENSA" floor +1 8132,11755,0 [Base.Bag_Schoolbag].
+[08-04-23 02:29:39.417] 76561198307998488 "DeIL ??" floor -1 8132,11755,0 [Base.Bag_Schoolbag].
+[08-04-23 02:29:42.538] 76561198082500592 "joaoZinBALATENSA" floor +1 8133,11748,0 [Base.Hat_BaseballCapKY].
+[08-04-23 02:30:02.610] 76561198307998488 "DeIL ??" floor +1 8130,11756,0 [Base.Vest_DefaultTEXTURE_TINT].
+[08-04-23 02:30:20.945] 76561198082500592 "joaoZinBALATENSA" container -1 8130,11751,0 [Base.Hat_Fireman].
+[08-04-23 02:30:22.343] 76561198307998488 "DeIL ??" floor +1 8130,11753,0 [Base.Hammer].
+[08-04-23 02:30:46.890] 76561198045199544 "Tomioka" container -1 8131,11742,0 [Base.WhiskeyFull].
+[08-04-23 02:30:52.312] 76561198226339992 "monicao da 13" container -1 8129,11590,1 [Base.PillsSleepingTablets].
+[08-04-23 02:30:55.886] 76561198045199544 "Tomioka" container -1 8131,11742,0 [Base.MagazineCrossword1].
+[08-04-23 02:31:10.891] 76561198045199544 "Tomioka" container -1 8131,11742,0 [Base.MagazineCrossword3].
+[08-04-23 02:31:14.637] 76561199070860042 "f1_dvd" container -1 8131,11742,0 [Base.MagazineWordsearch3].
+[08-04-23 02:31:19.295] 76561198226339992 "monicao da 13" container -1 8131,11598,1 [Base.Tweezers].
+[08-04-23 02:31:43.048] 76561199070860042 "f1_dvd" floor +1 8132,11742,0 [Base.TinCanEmpty].
+[08-04-23 02:31:46.291] 76561198226339992 "monicao da 13" container -2 8129,11598,0 [Base.Salmon, farming.RemouladeFull].
+[08-04-23 02:31:52.293] 76561198226339992 "monicao da 13" container -1 8129,11598,0 [Base.Watermelon].
+[08-04-23 02:32:01.305] 76561198226339992 "monicao da 13" container +0 8129,11598,0 [Base.CannedCorn].
+[08-04-23 02:32:03.195] 76561199070860042 "f1_dvd" floor +1 8132,11736,0 [Base.Glasses_Reading].
+[08-04-23 02:32:04.299] 76561198226339992 "monicao da 13" container +0 8129,11598,0 [Base.CannedFruitCocktail].
+[08-04-23 02:32:07.311] 76561198226339992 "monicao da 13" container +0 8129,11598,0 [Base.CannedPeaches].
+[08-04-23 02:32:10.295] 76561198226339992 "monicao da 13" container +0 8129,11598,0 [Base.CannedTomato2, Base.Chicken].
+[08-04-23 02:32:13.824] 76561198307998488 "DeIL ??" container -1 8134,11736,0 [Base.Trousers_Fireman].
+[08-04-23 02:32:16.296] 76561198226339992 "monicao da 13" container +0 8129,11598,0 [Base.Watermelon].
+[08-04-23 02:32:28.290] 76561198226339992 "monicao da 13" container -1 8131,11598,0 [Base.Steak].
+[08-04-23 02:32:46.882] 76561198045199544 "Tomioka" container -1 8145,11743,0 [Base.Hammer].
+[08-04-23 02:32:53.638] 76561199070860042 "f1_dvd" container -1 8145,11743,0 [Base.Rake].
+[08-04-23 02:32:59.639] 76561199070860042 "f1_dvd" container -1 8145,11745,0 [Base.BallPeenHammer].
+[08-04-23 02:33:12.712] 76561199070860042 "f1_dvd" floor +1 8146,11744,0 [Base.GridlePan].
+[08-04-23 02:33:15.413] 76561199070860042 "f1_dvd" floor +1 8146,11744,0 [Base.Rake].
+[08-04-23 02:33:19.157] 76561198307998488 "DeIL ??" floor +1 8146,11738,0 [Base.Bag_Schoolbag].
+[08-04-23 02:33:24.294] 76561198082500592 "joaoZinBALATENSA" container -1 8149,11732,0 [Base.GardenHoe].
+[08-04-23 02:33:43.894] 76561198045199544 "Tomioka" container -1 8145,11732,0 [Base.Hat_HardHat].
+[08-04-23 02:33:50.645] 76561199070860042 "f1_dvd" container -6 8151,11731,0 [Base.Gloves_Surgical, Base.Disinfectant, Base.SutureNeedle].
+[08-04-23 02:33:53.636] 76561199070860042 "f1_dvd" container -2 8151,11730,0 [Base.AlcoholWipes, Base.CottonBalls].
+[08-04-23 02:33:53.817] 76561198082500592 "joaoZinBALATENSA" floor +1 8151,11736,0 [Base.RippedSheetsDirty].
+[08-04-23 02:33:53.818] 76561198082500592 "joaoZinBALATENSA" floor +1 8151,11736,0 [Base.RippedSheetsDirty].
+[08-04-23 02:33:55.900] 76561198082500592 "joaoZinBALATENSA" floor +1 8151,11736,0 [Base.Saucepan].
+[08-04-23 02:33:59.635] 76561199070860042 "f1_dvd" container -3 8151,11728,0 [Base.AlcoholWipes, Base.Gloves_Surgical].
+[08-04-23 02:34:02.647] 76561199070860042 "f1_dvd" container -5 8152,11728,0 [Base.Gloves_Surgical, Base.Tweezers, Base.SutureNeedle].
+[08-04-23 02:34:05.642] 76561199070860042 "f1_dvd" container -1 8153,11728,0 [Base.Bandaid].
+[08-04-23 02:34:05.642] 76561199070860042 "f1_dvd" container -3 8152,11728,0 [Base.Hat_SurgicalMask_Blue, Base.Scalpel, Base.Pills].
+[08-04-23 02:34:06.289] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11739,0 [Base.Jacket_Fireman].
+[08-04-23 02:34:07.758] 76561198226339992 "monicao da 13" floor +1 8208,11589,0 [Base.Glasses_Normal].
+[08-04-23 02:34:08.643] 76561199070860042 "f1_dvd" container -7 8153,11728,0 [Base.PillsBeta, Base.AlcoholWipes, Base.Antibiotics, Base.PillsSleepingTablets, Base.Disinfectant, Base.Pills].
+[08-04-23 02:34:11.639] 76561199070860042 "f1_dvd" container -6 8154,11728,0 [Base.AlcoholWipes, Base.Gloves_Surgical, Base.Hat_SurgicalMask_Blue].
+[08-04-23 02:34:20.734] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.736] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.738] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.740] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.741] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.742] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.743] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.744] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.744] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.745] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.746] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.747] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.748] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.749] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.750] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.751] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.752] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.753] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.753] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.754] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.755] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.756] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.757] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.758] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.759] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.760] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.761] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.762] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.762] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.763] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:20.764] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Bandaid].
+[08-04-23 02:34:20.771] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.RippedSheetsDirty].
+[08-04-23 02:34:20.796] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Gloves_Surgical].
+[08-04-23 02:34:20.798] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Gloves_Surgical].
+[08-04-23 02:34:20.799] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Gloves_Surgical].
+[08-04-23 02:34:20.800] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Gloves_Surgical].
+[08-04-23 02:34:20.800] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Gloves_Surgical].
+[08-04-23 02:34:20.801] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Gloves_Surgical].
+[08-04-23 02:34:20.803] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Gloves_Surgical].
+[08-04-23 02:34:20.804] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.SutureNeedle].
+[08-04-23 02:34:20.804] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.SutureNeedle].
+[08-04-23 02:34:20.805] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.SutureNeedle].
+[08-04-23 02:34:20.806] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.SutureNeedle].
+[08-04-23 02:34:20.807] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.SutureNeedle].
+[08-04-23 02:34:20.818] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.CottonBalls].
+[08-04-23 02:34:20.840] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Tweezers].
+[08-04-23 02:34:20.842] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Tweezers].
+[08-04-23 02:34:20.848] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Antibiotics].
+[08-04-23 02:34:20.887] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Hat_SurgicalMask_Blue].
+[08-04-23 02:34:20.917] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Hat_SurgicalMask_Blue].
+[08-04-23 02:34:20.953] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Hat_SurgicalMask_Blue].
+[08-04-23 02:34:20.984] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Pills].
+[08-04-23 02:34:21.036] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Pills].
+[08-04-23 02:34:21.052] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.PillsBeta].
+[08-04-23 02:34:21.084] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.PillsSleepingTablets].
+[08-04-23 02:34:21.118] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.GlassTumblerWater].
+[08-04-23 02:34:21.156] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Disinfectant].
+[08-04-23 02:34:21.183] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Disinfectant].
+[08-04-23 02:34:21.227] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Disinfectant].
+[08-04-23 02:34:21.257] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.AlcoholWipes].
+[08-04-23 02:34:21.287] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.AlcoholWipes].
+[08-04-23 02:34:21.325] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.AlcoholWipes].
+[08-04-23 02:34:21.353] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.AlcoholWipes].
+[08-04-23 02:34:21.380] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.AlcoholWipes].
+[08-04-23 02:34:21.423] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.Scalpel].
+[08-04-23 02:34:21.484] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.TinOpener].
+[08-04-23 02:34:21.587] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.CannedPotato2].
+[08-04-23 02:34:21.652] 76561198226339992 "monicao da 13" floor +1 8206,11589,0 [Base.BaseballBat].
+[08-04-23 02:34:21.677] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.CannedPotato2].
+[08-04-23 02:34:21.770] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.CannedBolognese].
+[08-04-23 02:34:21.870] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.CannedBolognese].
+[08-04-23 02:34:21.955] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.CannedCorn].
+[08-04-23 02:34:22.050] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.CannedSardines].
+[08-04-23 02:34:22.139] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.CannedSardines].
+[08-04-23 02:34:22.233] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.CannedMushroomSoup].
+[08-04-23 02:34:22.335] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.WaterMugWhite].
+[08-04-23 02:34:22.467] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.WaterBowl].
+[08-04-23 02:34:22.617] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.FullKettle].
+[08-04-23 02:34:33.550] 76561198307998488 "DeIL ??" floor +1 8147,11737,0 [Base.RippedSheetsDirty].
+[08-04-23 02:34:33.551] 76561198307998488 "DeIL ??" floor +1 8147,11737,0 [Base.RippedSheetsDirty].
+[08-04-23 02:34:35.337] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.TinOpener].
+[08-04-23 02:34:40.107] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.113] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.114] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.115] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.115] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.116] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.117] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.117] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.118] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.118] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.119] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.119] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.119] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.120] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.120] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.120] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.121] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.121] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.121] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.122] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.150] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.157] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.157] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.157] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.158] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.158] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.158] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.158] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.158] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:40.159] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheets].
+[08-04-23 02:34:55.292] 76561198226339992 "monicao da 13" container -1 8419,11689,0 [Base.Saucepan].
+[08-04-23 02:34:58.878] 76561199070860042 "f1_dvd" floor -1 8147,11737,0 [Base.RippedSheetsDirty].
+[08-04-23 02:34:59.192] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.GlassTumblerWater].
+[08-04-23 02:35:00.075] 76561199070860042 "f1_dvd" floor -1 8147,11737,0 [Base.RippedSheetsDirty].
+[08-04-23 02:35:00.951] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.RippedSheetsDirty].
+[08-04-23 02:35:01.807] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.WaterMugWhite].
+[08-04-23 02:35:05.401] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.Disinfectant].
+[08-04-23 02:35:05.722] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.Disinfectant].
+[08-04-23 02:35:06.033] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.Disinfectant].
+[08-04-23 02:35:06.999] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.Pills].
+[08-04-23 02:35:07.223] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.Pills].
+[08-04-23 02:35:08.357] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.AlcoholWipes].
+[08-04-23 02:35:08.672] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.AlcoholWipes].
+[08-04-23 02:35:08.981] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.AlcoholWipes].
+[08-04-23 02:35:09.296] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.AlcoholWipes].
+[08-04-23 02:35:09.617] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.AlcoholWipes].
+[08-04-23 02:35:10.094] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.Bandaid].
+[08-04-23 02:35:11.776] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.PillsBeta].
+[08-04-23 02:35:12.374] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.Antibiotics].
+[08-04-23 02:35:13.660] 76561198045199544 "Tomioka" floor -1 8148,11737,0 [Base.WaterBowl].
+[08-04-23 02:35:13.920] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.PillsSleepingTablets].
+[08-04-23 02:35:26.078] 76561198045199544 "Tomioka" floor +1 8148,11737,0 [Base.Bowl].
+[08-04-23 02:35:32.481] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.CannedCorn].
+[08-04-23 02:35:33.799] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.CannedMushroomSoup].
+[08-04-23 02:35:35.154] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.CannedPotato2].
+[08-04-23 02:35:35.999] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.CannedPotato2].
+[08-04-23 02:35:45.159] 76561199070860042 "f1_dvd" floor +1 8148,11737,0 [Base.CannedCorn].
+[08-04-23 02:35:45.295] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11739,0 [Base.Belt2, Base.TinOpener, Base.RippedSheets, Base.HandTorch, Base.KeyRing, Base.RippedSheetsDirty, Base.Socks_Ankle, Base.Lighter].
+[08-04-23 02:35:48.291] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11739,0 [Base.Hat_BalaclavaFull, Base.Trousers_DefaultTEXTURE_TINT].
+[08-04-23 02:35:51.292] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11739,0 [Base.Shoes_Random, Base.Vest_DefaultTEXTURE_TINT, Base.Tshirt_WhiteLongSleeveTINT].
+[08-04-23 02:35:54.285] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11739,0 [Base.GardenHoe, Base.Hat_Fireman].
+[08-04-23 02:35:57.283] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11739,0 [Base.Trousers_Fireman].
+[08-04-23 02:36:49.887] 76561198045199544 "Tomioka" container -13 8157,11739,0 [Base.RippedSheets].
+[08-04-23 02:37:04.297] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.MugWhite].
+[08-04-23 02:37:09.285] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.GlassTumbler].
+[08-04-23 02:37:14.261] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.FullKettle].
+[08-04-23 02:37:20.888] 76561198045199544 "Tomioka" floor +1 8150,11733,0 [Base.Pan].
+[08-04-23 02:37:21.042] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.PillsBeta].
+[08-04-23 02:37:22.723] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.Antibiotics].
+[08-04-23 02:37:39.769] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.771] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.772] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.772] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.773] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.774] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.775] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.775] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.776] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.777] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.778] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.778] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.779] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.780] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.781] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.782] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.783] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.783] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.784] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.785] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.793] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.794] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.795] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.796] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.797] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.799] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.800] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.801] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.803] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.804] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.805] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:39.806] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:45.337] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:45.346] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:45.346] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:45.346] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:45.347] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:45.347] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:45.347] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:45.348] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:45.349] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:45.349] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:45.350] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:45.350] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:45.351] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:45.352] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:45.352] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:45.352] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.RippedSheets].
+[08-04-23 02:37:53.174] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.PillsSleepingTablets].
+[08-04-23 02:38:30.948] 76561199070860042 "f1_dvd" floor -1 8151,11736,0 [Base.RippedSheetsDirty].
+[08-04-23 02:38:30.959] 76561199070860042 "f1_dvd" floor -1 8151,11736,0 [Base.RippedSheetsDirty].
+[08-04-23 02:38:42.981] 76561198045199544 "Tomioka" floor -1 8148,11737,0 [Base.Hat_SurgicalMask_Blue].
+[08-04-23 02:39:24.774] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.Pills].
+[08-04-23 02:39:24.821] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.Pills].
+[08-04-23 02:39:43.221] 76561198307998488 "DeIL ??" container -1 8128,11745,1 [Base.TinOpener].
+[08-04-23 02:40:58.859] 76561198307998488 "DeIL ??" container -1 8134,11728,1 [Base.Lunchbox].
+[08-04-23 02:41:10.866] 76561198307998488 "DeIL ??" container +0 8131,11728,1 [Base.Lunchbox].
+[08-04-23 02:41:30.930] 76561198307998488 "DeIL ??" floor +1 8135,11735,1 [Base.Thread].
+[08-04-23 02:42:07.307] 76561198226339992 "monicao da 13" container -1 8145,11746,0 [Base.Rake].
+[08-04-23 02:42:07.843] 76561198307998488 "DeIL ??" container -1 8131,11745,1 [Base.OatsRaw].
+[08-04-23 02:42:16.320] 76561198226339992 "monicao da 13" container -1 8145,11742,0 [Base.HandTorch].
+[08-04-23 02:42:16.871] 76561198045199544 "Tomioka" floor +1 8218,11684,0 [Base.UnusableWood].
+[08-04-23 02:42:16.872] 76561198045199544 "Tomioka" floor +1 8218,11684,0 [Base.Doorknob].
+[08-04-23 02:42:16.873] 76561198045199544 "Tomioka" floor +1 8218,11684,0 [Base.Hinge].
+[08-04-23 02:42:55.446] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.Bandaid].
+[08-04-23 02:42:57.794] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.FullKettle].
+[08-04-23 02:43:02.971] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.GlassTumbler].
+[08-04-23 02:43:04.185] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.MugWhite].
+[08-04-23 02:43:43.574] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.CannedBolognese].
+[08-04-23 02:43:44.407] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.CannedBolognese].
+[08-04-23 02:43:55.518] 76561199070860042 "f1_dvd" floor +1 8147,11740,0 [Base.CannedBologneseOpen].
+[08-04-23 02:43:58.833] 76561198045199544 "Tomioka" floor -1 8147,11740,0 [Base.CannedBologneseOpen].
+[08-04-23 02:44:05.180] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.CannedBolognese].
+[08-04-23 02:44:58.304] 76561198226339992 "monicao da 13" container -1 8157,11739,0 [Base.TinOpener].
+[08-04-23 02:45:07.885] 76561198045199544 "Tomioka" container -1 8130,11745,1 [Base.PopBottle].
+[08-04-23 02:45:10.319] 76561198226339992 "monicao da 13" container -1 8157,11739,0 [Base.Jacket_Fireman].
+[08-04-23 02:45:13.881] 76561198045199544 "Tomioka" container -1 8130,11745,1 [Base.WaterBottleFull].
+[08-04-23 02:45:16.886] 76561198045199544 "Tomioka" container -1 8131,11745,1 [Base.Cereal].
+[08-04-23 02:46:05.283] 76561199070860042 "f1_dvd" container +0 8128,11751,1 [Base.TinCanEmpty].
+[08-04-23 02:46:12.521] 76561198082500592 "joaoZinBALATENSA" floor +1 8159,11746,0 [Base.Glasses_Normal].
+[08-04-23 02:46:17.392] 76561199070860042 "f1_dvd" container -1 8129,11745,1 [Base.BeefJerky].
+[08-04-23 02:46:17.974] 76561198226339992 "monicao da 13" floor +1 8158,11745,0 [Base.Glasses_Normal].
+[08-04-23 02:46:45.314] 76561198082500592 "joaoZinBALATENSA" container -8 8157,11739,0 [Base.Belt2, Base.HandTorch, Base.KeyRing, Base.RippedSheetsDirty, Base.Socks_Ankle, Base.Lighter, Base.Lunchbag].
+[08-04-23 02:46:46.320] 76561198226339992 "monicao da 13" container +0 8157,11739,0 [Base.Jacket_Fireman].
+[08-04-23 02:46:48.304] 76561198082500592 "joaoZinBALATENSA" container -3 8157,11739,0 [Base.Vest_DefaultTEXTURE_TINT, Base.Tshirt_WhiteLongSleeveTINT, Base.Trousers_DefaultTEXTURE_TINT].
+[08-04-23 02:46:51.310] 76561198082500592 "joaoZinBALATENSA" container -2 8157,11739,0 [Base.Shoes_Random, Base.Hat_BalaclavaFull].
+[08-04-23 02:46:54.321] 76561198082500592 "joaoZinBALATENSA" container -2 8157,11739,0 [Base.GardenHoe, Base.Hat_Fireman].
+[08-04-23 02:46:56.112] 76561198082500592 "joaoZinBALATENSA" floor +1 8156,11739,0 [Base.KeyRing].
+[08-04-23 02:46:57.315] 76561198082500592 "joaoZinBALATENSA" container -1 8157,11739,0 [Base.Trousers_Fireman].
+[08-04-23 02:47:11.864] 76561198082500592 "joaoZinBALATENSA" floor +1 8156,11739,0 [Base.Shoes_Random].
+[08-04-23 02:47:13.993] 76561198082500592 "joaoZinBALATENSA" floor +1 8156,11739,0 [Base.Socks_Long].
+[08-04-23 02:47:27.311] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11739,0 [Base.Belt2].
+[08-04-23 02:47:30.320] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11739,0 [Base.Shirt_FormalTINT, Base.Trousers_DefaultTEXTURE_TINT].
+[08-04-23 02:47:31.893] 76561198045199544 "Tomioka" container -1 8130,11751,0 [Base.Jacket_Fireman].
+[08-04-23 02:47:33.330] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11739,0 [Base.Tshirt_PoloStripedTINT].
+[08-04-23 02:47:39.317] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11739,0 [Base.Tshirt_WhiteLongSleeveTINT].
+[08-04-23 02:47:42.317] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11739,0 [Base.Trousers_DefaultTEXTURE_TINT].
+[08-04-23 02:47:52.306] 76561198226339992 "monicao da 13" container -1 8147,11728,0 [Base.Axe].
+[08-04-23 02:48:00.309] 76561198082500592 "joaoZinBALATENSA" container -1 8157,11739,0 [Base.Jacket_Fireman].
+[08-04-23 02:48:06.312] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11739,0 [Base.RippedSheetsDirty, Base.Socks_Ankle].
+[08-04-23 02:48:09.317] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11739,0 [Base.Vest_DefaultTEXTURE_TINT, Base.Lunchbag].
+[08-04-23 02:48:12.330] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11739,0 [Base.Shoes_Random, Base.Hat_BalaclavaFull].
+[08-04-23 02:48:16.318] 76561198226339992 "monicao da 13" container -1 8147,11728,0 [Base.construction_01_8].
+[08-04-23 02:48:42.307] 76561198082500592 "joaoZinBALATENSA" container -1 8157,11739,0 [Base.Shoes_Random].
+[08-04-23 02:48:55.060] 76561198226339992 "monicao da 13" floor +1 8131,11749,0 [Base.Rake].
+[08-04-23 02:49:07.894] 76561198045199544 "Tomioka" container -1 8134,11728,1 [Base.Jacket_Fireman].
+[08-04-23 02:49:08.165] 76561198045199544 "Tomioka" floor +1 8135,11729,1 [Base.JacketLong_Random].
+[08-04-23 02:49:46.316] 76561198226339992 "monicao da 13" container -1 8134,11740,0 [Base.BluePen].
+[08-04-23 02:50:37.337] 76561198226339992 "monicao da 13" container -1 8136,11745,1 [Base.Honey].
+[08-04-23 02:50:45.356] 76561199070860042 "f1_dvd" floor -1 8150,11733,0 [Base.Pan].
+[08-04-23 02:51:04.323] 76561198226339992 "monicao da 13" container -1 8129,11745,1 [Base.Ramen].
+[08-04-23 02:51:10.878] 76561198307998488 "DeIL ??" container -1 8128,11745,1 [Base.GlassTumbler].
+[08-04-23 02:51:19.319] 76561198226339992 "monicao da 13" container -1 8128,11750,1 [Base.JuiceBox].
+[08-04-23 02:52:05.644] 76561199070860042 "f1_dvd" container +0 8128,11746,1 [Base.Pan].
+[08-04-23 02:52:52.889] 76561198045199544 "Tomioka" container -1 8145,11729,0 [Base.Axe].
+[08-04-23 02:53:11.001] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.CannedSardines].
+[08-04-23 02:53:11.836] 76561199070860042 "f1_dvd" floor -1 8148,11737,0 [Base.CannedSardines].
+[08-04-23 02:53:22.883] 76561198307998488 "DeIL ??" container -1 8145,11728,0 [Base.Axe].
+[08-04-23 02:53:30.342] 76561198082500592 "joaoZinBALATENSA" container -1 8145,11730,0 [Base.Crowbar].
+[08-04-23 02:53:33.330] 76561198082500592 "joaoZinBALATENSA" container +0 8145,11730,0 [Base.GardenHoe].
+[08-04-23 02:53:35.643] 76561199070860042 "f1_dvd" container +0 8145,11730,0 [Base.BallPeenHammer].
+[08-04-23 02:53:37.633] 76561198307998488 "DeIL ??" floor +1 8148,11735,0 [Base.ButterKnife].
+[08-04-23 02:53:47.651] 76561199070860042 "f1_dvd" container -1 8145,11730,0 [Base.GardenHoe].
+[08-04-23 02:53:52.891] 76561198045199544 "Tomioka" container -1 8158,11745,0 [Base.Shoes_Random].
+[08-04-23 02:53:57.321] 76561198082500592 "joaoZinBALATENSA" container -1 8157,11740,0 [Base.Tshirt_Profession_FiremanRed02].
+[08-04-23 02:54:00.315] 76561198082500592 "joaoZinBALATENSA" container -1 8157,11740,0 [Base.Shirt_Lumberjack].
+[08-04-23 02:54:03.333] 76561198082500592 "joaoZinBALATENSA" container -1 8157,11740,0 [Base.Tshirt_Profession_FiremanWhite].
+[08-04-23 02:54:06.332] 76561198082500592 "joaoZinBALATENSA" container -1 8157,11740,0 [Base.Tshirt_Profession_FiremanBlue].
+[08-04-23 02:54:08.125] 76561198082500592 "joaoZinBALATENSA" container -1 8157,11740,0 [Base.Tshirt_Profession_FiremanRed].
+[08-04-23 02:54:09.322] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11740,0 [Base.RippedSheetsDirty].
+[08-04-23 02:54:19.340] 76561198226339992 "monicao da 13" container -1 8150,11740,0 [Base.Jacket_Fireman].
+[08-04-23 02:55:12.093] 76561198045199544 "Tomioka" floor +1 8097,11775,0 [Base.Hat_BaseballCap].
+[08-04-23 02:55:12.095] 76561198045199544 "Tomioka" floor +1 8097,11776,0 [Base.Glasses_Normal].
+[08-04-23 02:55:12.973] 76561198307998488 "DeIL ??" floor +1 8097,11776,0 [Base.Hat_BaseballCap].
+[08-04-23 02:55:12.974] 76561198307998488 "DeIL ??" floor +1 8097,11775,0 [Base.Glasses_Normal].
+[08-04-23 02:55:26.652] 76561199070860042 "f1_dvd" container -1 8096,11775,0 [Base.Socks_Ankle].
+[08-04-23 02:55:38.448] 76561199070860042 "f1_dvd" floor +1 8086,11765,0 [Base.RippedSheetsDirty].
+[08-04-23 02:56:06.429] 76561199070860042 "f1_dvd" floor +1 8069,11744,0 [Base.Hat_BaseballCap_Reverse].
+[08-04-23 02:56:08.584] 76561198226339992 "monicao da 13" floor +1 8070,11744,0 [Base.Hat_BaseballCap_Reverse].
+[08-04-23 02:56:45.330] 76561198082500592 "joaoZinBALATENSA" container -2 8065,11722,0 [Base.x4Scope, Base.HolePuncher].
+[08-04-23 02:56:46.895] 76561198045199544 "Tomioka" container -1 8065,11722,0 [Base.Shotgun].
+[08-04-23 02:56:48.343] 76561198082500592 "joaoZinBALATENSA" container -3 8065,11722,0 [Base.308Box].
+[08-04-23 02:56:51.344] 76561198082500592 "joaoZinBALATENSA" container -2 8065,11722,0 [Base.M14Clip, Base.ShotgunShellsBox].
+[08-04-23 02:56:54.330] 76561198082500592 "joaoZinBALATENSA" container -3 8065,11722,0 [Base.ShotgunShellsBox].
+[08-04-23 02:56:55.887] 76561198045199544 "Tomioka" container -2 8065,11722,0 [].
+[08-04-23 02:56:57.347] 76561198082500592 "joaoZinBALATENSA" container -2 8065,11722,0 [Base.AmmoStrap_Bullets].
+[08-04-23 02:56:59.047] 76561198045199544 "Tomioka" floor +1 8064,11723,0 [Base.Socks_Ankle].
+[08-04-23 02:57:04.878] 76561198307998488 "DeIL ??" container -1 8065,11722,0 [Base.AmmoStrap_Bullets].
+[08-04-23 02:57:23.648] 76561199070860042 "f1_dvd" container -1 8066,11737,0 [Base.Newspaper].
+[08-04-23 02:57:53.242] 76561198045199544 "Tomioka" floor +1 8066,11724,0 [Base.MagazineCrossword3].
+[08-04-23 02:58:03.678] 76561198045199544 "Tomioka" floor +1 8066,11724,0 [Base.Vest_DefaultTEXTURE_TINT].
+[08-04-23 02:58:08.728] 76561198045199544 "Tomioka" floor +1 8066,11724,0 [Base.Trousers_Scrubs].
+[08-04-23 02:58:17.576] 76561198045199544 "Tomioka" floor +1 8066,11724,0 [Base.Shoes_Random].
+[08-04-23 02:58:19.982] 76561198045199544 "Tomioka" floor +1 8066,11724,0 [Base.Shoes_TrainerTINT].
+[08-04-23 02:58:20.099] 76561198045199544 "Tomioka" floor +1 8066,11724,0 [Base.Shoes_TrainerTINT].
+[08-04-23 02:58:43.717] 76561198082500592 "joaoZinBALATENSA" floor +1 8053,11674,0 [Base.Doorknob].
+[08-04-23 02:59:25.925] 76561198082500592 "joaoZinBALATENSA" floor +1 8126,11766,0 [Base.Glasses_Reading].
+[08-04-23 02:59:27.433] 76561198307998488 "DeIL ??" floor +1 8126,11766,0 [Base.Hat_BaseballCap].
+[08-04-23 02:59:27.434] 76561198307998488 "DeIL ??" floor +1 8126,11766,0 [Base.Glasses_Reading].
+[08-04-23 02:59:59.958] 76561198307998488 "DeIL ??" floor +1 8141,11753,0 [Base.Glasses_Normal].
+[08-04-23 03:00:24.089] 76561199070860042 "f1_dvd" floor +1 8130,11756,0 [Base.TinCanEmpty].
+[08-04-23 03:00:36.510] 76561198307998488 "DeIL ??" floor +1 8135,11754,0 [Base.Axe].
+[08-04-23 03:00:59.949] 76561198045199544 "Tomioka" floor +1 8071,11727,0 [Base.RollingPin].
+[08-04-23 03:01:34.084] 76561198307998488 "DeIL ??" container -1 8248,11668,0 [Base.FirstAidKit].
+[08-04-23 03:01:43.874] 76561198307998488 "DeIL ??" container -3 8250,11668,0 [Base.Pen, Base.Magazine, Base.Newspaper].
+[08-04-23 03:01:46.899] 76561198307998488 "DeIL ??" container -3 8250,11668,0 [Base.Book, Base.BookFarming1, Base.BookMetalWelding2].
+[08-04-23 03:01:49.888] 76561198307998488 "DeIL ??" container -3 8250,11668,0 [Base.BookFirstAid3, Base.BookForaging3, Base.BookForaging1].
+[08-04-23 03:01:55.881] 76561198307998488 "DeIL ??" container -4 8251,11668,0 [Base.Magazine, Base.BookFirstAid1, Base.BookMechanic1, Base.BookFirstAid3].
+[08-04-23 03:03:00.332] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11738,0 [Base.M14Clip, Base.HolePuncher, Base.308Box].
+[08-04-23 03:03:01.888] 76561198045199544 "Tomioka" container -1 8150,11740,0 [Base.Trousers_Fireman].
+[08-04-23 03:03:03.337] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11738,0 [Base.ShotgunShellsBox].
+[08-04-23 03:03:04.068] 76561198045199544 "Tomioka" container -1 8150,11740,0 [Base.Shoes_ArmyBoots].
+[08-04-23 03:03:06.361] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11738,0 [Base.AmmoStrap_Bullets, Base.ShotgunShellsBox].
+[08-04-23 03:03:09.348] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11738,0 [Base.Tshirt_Profession_FiremanRed, Base.Lighter].
+[08-04-23 03:03:12.343] 76561198082500592 "joaoZinBALATENSA" container -1 8157,11738,0 [Base.Lighter].
+[08-04-23 03:03:15.344] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11738,0 [Base.x4Scope].
+[08-04-23 03:03:18.337] 76561198082500592 "joaoZinBALATENSA" container +0 8157,11738,0 [Base.Thread].
+[08-04-23 03:03:20.647] 76561199070860042 "f1_dvd" container +0 8145,11734,0 [Base.TinCanEmpty].
+[08-04-23 03:03:31.889] 76561198307998488 "DeIL ??" container -15 8135,11754,0 [Base.Belt2, Base.Wound_Neck_Scratch_Male, Base.RippedSheets, Base.Socks_Long, Base.RippedSheetsDirty, Base.Wound_Chest_Bite_Male, Base.Wound_Neck_Laceration_Male, Base.Wound_RUArm_Scratch_Male, Base.Bandage_LeftFoot, Base.TomatoPaste, Base.Hat_DustMask, Base.MugWhite].
+[08-04-23 03:03:34.897] 76561198307998488 "DeIL ??" container -5 8135,11754,0 [Base.TinOpener, Base.HandTorch, Base.GlassTumblerWater, Base.Cherry].
+[08-04-23 03:03:37.891] 76561198307998488 "DeIL ??" container -3 8135,11754,0 [Base.BookElectrician1, Base.Shirt_FormalWhite_ShortSleeveTINT, Base.Shoes_ArmyBoots].
+[08-04-23 03:03:40.888] 76561198307998488 "DeIL ??" container -3 8135,11754,0 [Base.MetalPipe, Base.Vest_DefaultTEXTURE_TINT, Base.AmmoStrap_Bullets].
+[08-04-23 03:03:41.645] 76561199070860042 "f1_dvd" container -4 8128,11748,1 [Base.CannedCornedBeef, Base.CannedPeaches, Base.CannedPeas, Base.CannedPotato2].
+[08-04-23 03:04:13.878] 76561199070860042 "f1_dvd" floor +1 8153,11738,0 [Base.CannedSardinesOpen].
+[08-04-23 03:04:13.912] 76561199070860042 "f1_dvd" floor +1 8153,11738,0 [Base.CannedSardinesOpen].
+[08-04-23 03:04:16.888] 76561198045199544 "Tomioka" container +0 8149,11732,0 [Base.Shotgun].
+[08-04-23 03:04:18.872] 76561198082500592 "joaoZinBALATENSA" floor -1 8153,11738,0 [Base.CannedSardinesOpen].
+[08-04-23 03:04:37.885] 76561198045199544 "Tomioka" container +0 8149,11732,0 [Base.WhiskeyEmpty].
+[08-04-23 03:04:38.006] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.CannedPotato2].
+[08-04-23 03:04:38.906] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.CannedPeas].
+[08-04-23 03:04:40.274] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.CannedCornedBeef].
+[08-04-23 03:04:52.891] 76561198045199544 "Tomioka" container +0 8149,11732,0 [Base.Shoes_Random].
+[08-04-23 03:05:04.889] 76561198045199544 "Tomioka" container +0 8149,11732,0 [Base.Jacket_Fireman].
+[08-04-23 03:05:20.831] 76561199070860042 "f1_dvd" floor +1 8160,11771,0 [Base.Hat_BaseballCapKY].
+[08-04-23 03:05:20.843] 76561198082500592 "joaoZinBALATENSA" floor +1 8160,11771,0 [Base.Hat_BaseballCapKY].
+[08-04-23 03:05:36.383] 76561198226339992 "monicao da 13" floor +1 8154,11767,0 [Base.Axe].
+[08-04-23 03:06:18.739] 76561198307998488 "DeIL ??" floor +1 8162,11761,0 [Base.Hat_BaseballCapKY].
+[08-04-23 03:06:59.994] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.Magazine].
+[08-04-23 03:07:00.026] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.Magazine].
+[08-04-23 03:07:01.376] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.BookMechanic1].
+[08-04-23 03:07:04.393] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.BookMetalWelding2].
+[08-04-23 03:07:05.837] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.Shoes_ArmyBoots].
+[08-04-23 03:07:06.994] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.Newspaper].
+[08-04-23 03:07:08.317] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.Pen].
+[08-04-23 03:07:09.619] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.Shirt_FormalWhite_ShortSleeveTINT].
+[08-04-23 03:07:10.812] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.Vest_DefaultTEXTURE_TINT].
+[08-04-23 03:07:21.022] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.BookElectrician1].
+[08-04-23 03:07:22.151] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.BookFarming1].
+[08-04-23 03:07:23.291] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.FirstAidKit].
+[08-04-23 03:07:24.150] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.BookFirstAid3].
+[08-04-23 03:07:24.246] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.BookFirstAid3].
+[08-04-23 03:07:25.027] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.BookFirstAid1].
+[08-04-23 03:07:25.993] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.BookForaging1].
+[08-04-23 03:07:26.915] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.BookForaging3].
+[08-04-23 03:07:35.654] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.RippedSheetsDirty].
+[08-04-23 03:07:37.321] 76561198307998488 "DeIL ??" floor +1 8152,11738,0 [Base.Hat_DustMask].
+[08-04-23 03:07:39.332] 76561198307998488 "DeIL ??" floor -1 8152,11738,0 [Base.RippedSheetsDirty].
+[08-04-23 03:07:42.585] 76561198307998488 "DeIL ??" floor +1 8149,11735,0 [Base.AmmoStrap_Bullets].
+[08-04-23 03:08:15.375] 76561198226339992 "monicao da 13" floor -1 8154,11767,0 [Base.Axe].
+[08-04-23 03:08:20.076] 76561199070860042 "f1_dvd" floor +1 8156,11772,0 [Base.Glasses_Normal].
+[08-04-23 03:08:35.642] 76561199070860042 "f1_dvd" container -1 8154,11779,0 [Base.LouisvilleMap7].
+[08-04-23 03:08:58.890] 76561198307998488 "DeIL ??" container -1 8147,11762,0 [Base.Shirt_CropTopTINT].
+[08-04-23 03:09:06.951] 76561198226339992 "monicao da 13" container -3 8162,11765,0 [Base.KeyRing, Base.Wound_RHand_Bite_Female, Base.Wound_LHand_Scratch_Female].
+[08-04-23 03:09:09.948] 76561198226339992 "monicao da 13" container -10 8162,11765,0 [Base.JuiceBox, Base.Belt2, Base.TinOpener, Base.Saucepan, Base.RippedSheets, Base.Ramen, Base.HandTorch, Base.Socks_Ankle, Base.BluePen, Base.Honey].
+[08-04-23 03:09:12.941] 76561198226339992 "monicao da 13" container -1 8162,11765,0 [Base.Shoes_Black].
+[08-04-23 03:09:15.938] 76561198226339992 "monicao da 13" container -1 8162,11765,0 [Base.Trousers_Fireman].
+[08-04-23 03:09:18.954] 76561198226339992 "monicao da 13" container -1 8162,11765,0 [Base.Jacket_Fireman].
+[08-04-23 03:09:30.952] 76561198226339992 "monicao da 13" container +0 8162,11765,0 [Base.Belt2].
+[08-04-23 03:09:34.899] 76561198307998488 "DeIL ??" container -1 8155,11769,0 [Base.Vest_DefaultTEXTURE_TINT].
+[08-04-23 03:09:35.931] 76561199070860042 "f1_dvd" floor +1 8135,11760,0 [Base.LouisvilleMap7].
+[08-04-23 03:09:38.716] 76561198082500592 "joaoZinBALATENSA" floor -1 8135,11760,0 [Base.LouisvilleMap7].
+[08-04-23 03:09:42.956] 76561198226339992 "monicao da 13" container +0 8162,11765,0 [Base.Trousers_Fireman].
+[08-04-23 03:09:49.103] 76561198307998488 "DeIL ??" floor +1 8141,11761,0 [Base.Shirt_CropTopTINT].
+[08-04-23 03:09:52.843] 76561198307998488 "DeIL ??" floor +1 8141,11761,0 [Base.Vest_DefaultTEXTURE_TINT].
+[08-04-23 03:11:12.018] 76561198307998488 "DeIL ??" floor -1 8135,11754,0 [Base.Axe].
+[08-04-23 03:11:33.490] 76561198045199544 "Tomioka" corpse +1 8140,11769,0.
+[08-04-23 03:12:01.793] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.Pills].
+[08-04-23 03:12:02.008] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.Pills].
+[08-04-23 03:12:22.790] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.Pills].
+[08-04-23 03:12:22.825] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.Pills].
+[08-04-23 03:12:30.959] 76561198226339992 "monicao da 13" container -2 8144,11741,0 [Base.Pen].
+[08-04-23 03:12:47.640] 76561199070860042 "f1_dvd" container -1 8145,11746,0 [Base.Rake].
+[08-04-23 03:14:08.345] 76561198226339992 "monicao da 13" floor +1 8154,11740,0 [Base.Lunchbag].
+[08-04-23 03:14:09.945] 76561198226339992 "monicao da 13" container -1 8157,11739,0 [Base.Lunchbag].
+[08-04-23 03:14:14.751] 76561198226339992 "monicao da 13" floor -1 8154,11740,0 [Base.Lunchbag].
+[08-04-23 03:14:33.237] 76561198226339992 "monicao da 13" floor +1 8151,11739,0 [Base.Lunchbag].
+[08-04-23 03:14:58.762] 76561198226339992 "monicao da 13" floor -1 8152,11738,0 [Base.BookFirstAid1].
+[08-04-23 03:15:10.168] 76561198226339992 "monicao da 13" floor -1 8152,11738,0 [Base.Hat_DustMask].
+[08-04-23 03:15:24.564] 76561198226339992 "monicao da 13" floor -1 8152,11738,0 [Base.BookMechanic1].
+[08-04-23 03:15:59.646] 76561199070860042 "f1_dvd" container +0 8145,11734,0 [Base.TinCanEmpty].
+[08-04-23 03:16:05.651] 76561199070860042 "f1_dvd" container +0 8145,11734,0 [Base.GardenHoe].
+[08-04-23 03:16:07.902] 76561198307998488 "DeIL ??" container -1 8145,11746,0 [Base.Saw].
+[08-04-23 03:17:47.287] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.Pills].
+[08-04-23 03:17:47.506] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.Pills].
+[08-04-23 03:18:01.904] 76561198307998488 "DeIL ??" container +0 8129,11745,1 [Base.GlassTumbler].
+[08-04-23 03:18:08.682] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.Pills].
+[08-04-23 03:18:08.713] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.Pills].
+[08-04-23 03:18:19.909] 76561198307998488 "DeIL ??" container -1 8129,11745,1 [Base.GlassTumbler].
+[08-04-23 03:18:21.955] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.Glasses_Reading].
+[08-04-23 03:18:49.896] 76561198307998488 "DeIL ??" container -1 8131,11745,1 [Base.CannedMilk].
+[08-04-23 03:19:02.639] 76561199070860042 "f1_dvd" container -1 8146,11738,0 [Base.BookFarming2].
+[08-04-23 03:19:08.646] 76561199070860042 "f1_dvd" container -1 8146,11738,0 [Base.BookCooking5].
+[08-04-23 03:19:18.069] 76561199070860042 "f1_dvd" floor +1 8147,11738,0 [Base.BookCooking5].
+[08-04-23 03:19:22.967] 76561198045199544 "Tomioka" floor +1 8147,11741,0 [Base.TinCanEmpty].
+[08-04-23 03:19:23.098] 76561199070860042 "f1_dvd" floor +1 8147,11738,0 [Base.BookFarming2].
+[08-04-23 03:19:32.908] 76561198307998488 "DeIL ??" floor -1 8148,11737,0 [Base.CannedCorn].
+[08-04-23 03:19:39.960] 76561198045199544 "Tomioka" floor +1 8149,11742,0 [Base.Hammer].
+[08-04-23 03:19:49.553] 76561199070860042 "f1_dvd" floor -1 8151,11736,0 [Base.Saucepan].
+[08-04-23 03:19:51.424] 76561198082500592 "joaoZinBALATENSA" floor -1 8149,11742,0 [Base.Hammer].
+[08-04-23 03:20:00.803] 76561199070860042 "f1_dvd" floor +1 8148,11745,0 [Base.Saucepan].
+[08-04-23 03:20:11.647] 76561199070860042 "f1_dvd" container -1 8147,11748,0 [Base.Shirt_Lumberjack].
+[08-04-23 03:20:20.778] 76561199070860042 "f1_dvd" floor +1 8147,11748,0 [Base.Thread].
+[08-04-23 03:22:00.099] 76561198307998488 "DeIL ??" floor +1 8148,11734,0 [Base.Saw].
+[08-04-23 03:22:02.842] 76561198082500592 "joaoZinBALATENSA" floor -1 8148,11734,0 [Base.Saw].
+[08-04-23 03:22:31.695] 76561198082500592 "joaoZinBALATENSA" floor +1 8153,11732,0 [Base.UnusableWood].
+[08-04-23 03:23:05.284] 76561198082500592 "joaoZinBALATENSA" floor +1 8140,11732,1 [Base.Nails].
+[08-04-23 03:23:05.286] 76561198082500592 "joaoZinBALATENSA" floor +1 8140,11732,1 [Base.Nails].
+[08-04-23 03:23:05.288] 76561198082500592 "joaoZinBALATENSA" floor +1 8140,11732,1 [Base.Plank].
+[08-04-23 03:23:05.290] 76561198082500592 "joaoZinBALATENSA" floor +1 8140,11733,1 [Base.Nails].
+[08-04-23 03:23:05.292] 76561198082500592 "joaoZinBALATENSA" floor +1 8140,11733,1 [Base.UnusableWood].
+[08-04-23 03:23:05.293] 76561198082500592 "joaoZinBALATENSA" floor +1 8140,11733,1 [Base.UnusableWood].
+[08-04-23 03:23:08.717] 76561198082500592 "joaoZinBALATENSA" floor -1 8140,11732,1 [Base.Nails].
+[08-04-23 03:23:08.717] 76561198082500592 "joaoZinBALATENSA" floor -1 8140,11732,1 [Base.Nails].
+[08-04-23 03:23:08.717] 76561198082500592 "joaoZinBALATENSA" floor -1 8140,11733,1 [Base.Nails].
+[08-04-23 03:23:16.381] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.Pills].
+[08-04-23 03:23:16.597] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.Pills].
+[08-04-23 03:23:17.697] 76561198082500592 "joaoZinBALATENSA" floor -1 8140,11732,1 [Base.Plank].
+[08-04-23 03:23:31.665] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.Pills].
+[08-04-23 03:23:31.717] 76561199070860042 "f1_dvd" floor +1 8148,11738,0 [Base.Pills].
+[08-04-23 03:23:33.378] 76561198082500592 "joaoZinBALATENSA" container +0 8145,11742,0 [Base.Plank].
+[08-04-23 03:24:07.631] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.CannedBolognese].
+[08-04-23 03:24:09.706] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.CannedPotato2].
+[08-04-23 03:24:11.256] 76561199070860042 "f1_dvd" floor -1 8148,11738,0 [Base.CannedPeas].

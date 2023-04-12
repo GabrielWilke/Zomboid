@@ -1,0 +1,36 @@
+[09-04-23 00:44:49.358] [76561198045199544][Tomioka][8147,11735,0][Login][Hours Survived: 29].
+[09-04-23 00:44:49.358] [76561198045199544][Tomioka][8147,11735,0][Cooking=0, Fitness=5, Strength=9, Blunt=0, Axe=0, Sprinting=0, Lightfoot=3, Nimble=0, Sneak=1, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=2, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 29].
+[09-04-23 00:47:12.812] [76561198082500592][joaoZinBALATENSA][8150,11743,0][Login][Hours Survived: 17].
+[09-04-23 00:47:12.813] [76561198082500592][joaoZinBALATENSA][8150,11743,0][Cooking=0, Fitness=5, Strength=7, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=3, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=1, Tailoring=0][Hours Survived: 17].
+[09-04-23 00:47:16.500] [76561198226339992][monicao da 13][8153,11739,0][Login][Hours Survived: 7].
+[09-04-23 00:47:16.500] [76561198226339992][monicao da 13][8153,11739,0][Cooking=0, Fitness=6, Strength=6, Blunt=0, Axe=1, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 7].
+[09-04-23 01:01:01.491] [76561198307998488][DeIL ??][8151,11742,0][Login][Hours Survived: 9].
+[09-04-23 01:01:01.491] [76561198307998488][DeIL ??][8151,11742,0][Cooking=0, Fitness=6, Strength=6, Blunt=0, Axe=1, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 9].
+[09-04-23 01:05:36.252] [76561198082500592][joaoZinBALATENSA][8128,11635,0][Level Changed][Lightfoot][1][Hours Survived: 24].
+[09-04-23 01:05:45.886] [76561198082500592][joaoZinBALATENSA][8130,11632,0][Level Changed][Sneak][1][Hours Survived: 24].
+[09-04-23 01:23:08.816] [76561198045199544][Tomioka][8045,11316,0][Died][Hours Survived: 45].
+[09-04-23 01:25:57.060] [76561198082500592][joaoZinBALATENSA][8171,11769,0][Level Changed][Blunt][1][Hours Survived: 32].
+[09-04-23 01:27:54.821] [76561198045199544][Tomioka][8208,11600,0][Created Player 1][Hours Survived: 0].
+[09-04-23 01:27:54.821] [76561198045199544][Tomioka][8208,11600,0][Cooking=0, Fitness=4, Strength=10, Blunt=0, Axe=2, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[09-04-23 01:48:42.215] [76561198226339992][monicao da 13][8318,11677,0][Level Changed][Axe][2][Hours Survived: 32].
+[09-04-23 02:32:22.391] [76561198082500592][joaoZinBALATENSA][8087,11609,0][Level Changed][Woodwork][4][Hours Survived: 59].
+[09-04-23 02:40:33.066] [76561198045199544][Tomioka][8071,11539,0][Level Changed][Axe][3][Hours Survived: 29].
+[09-04-23 03:14:43.056] [76561198226339992][monicao da 13][8019,12437,0][Died][Hours Survived: 66].
+[09-04-23 03:16:33.373] [76561198226339992][monicao da 13][8246,11670,0][Created Player 1][Hours Survived: 0].
+[09-04-23 03:16:33.374] [76561198226339992][monicao da 13][8246,11670,0][Cooking=0, Fitness=5, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[09-04-23 03:17:35.207] [76561198307998488][DeIL ??][8154,11649,0][Level Changed][Axe][2][Hours Survived: 64].
+[09-04-23 03:21:54.019] [76561198082500592][joaoZinBALATENSA][8175,11680,1][Level Changed][Woodwork][5][Hours Survived: 78].
+[09-04-23 03:26:34.320] [76561198307998488][DeIL ??][8228,11676,0][Died][Hours Survived: 67].
+[09-04-23 03:29:11.083] [76561198307998488][DeIL ??][8327,11814,0][Created Player 1][Hours Survived: 0].
+[09-04-23 03:29:11.084] [76561198307998488][DeIL ??][8327,11814,0][Cooking=0, Fitness=5, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=3, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[09-04-23 03:38:20.554] [76561198082500592][joaoZinBALATENSA][8163,11678,0][Level Changed][Woodwork][6][Hours Survived: 85].
+[09-04-23 04:56:25.776] [76561198082500592][joaoZinBALATENSA][8155,11739,0][Login][Hours Survived: 113].
+[09-04-23 04:56:25.777] [76561198082500592][joaoZinBALATENSA][8155,11739,0][Cooking=0, Fitness=5, Strength=7, Blunt=1, Axe=0, Sprinting=0, Lightfoot=1, Nimble=0, Sneak=1, Woodwork=6, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=1, Tailoring=0][Hours Survived: 113].
+[09-04-23 05:12:36.596] [76561198082500592][joaoZinBALATENSA][8091,11345,0][Level Changed][Maintenance][1][Hours Survived: 120].
+[09-04-23 05:16:33.230] [76561198082500592][joaoZinBALATENSA][8077,11355,0][Level Changed][Woodwork][7][Hours Survived: 121].
+[09-04-23 05:38:20.028] [76561198226339992][monicao da 13][8227,11529,0][Died][Hours Survived: 56].
+[09-04-23 05:41:58.862] [76561198226339992][monicao da 13][8418,11686,0][Created Player 1][Hours Survived: 0].
+[09-04-23 05:41:58.862] [76561198226339992][monicao da 13][8418,11686,0][Cooking=0, Fitness=5, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[09-04-23 05:43:35.803] [76561198226339992][monicao da 13][8340,11690,0][Died][Hours Survived: 0].
+[09-04-23 05:44:14.808] [76561198226339992][monicao da 13][8327,11814,0][Created Player 1][Hours Survived: 0].
+[09-04-23 05:44:14.808] [76561198226339992][monicao da 13][8327,11814,0][Cooking=0, Fitness=5, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].

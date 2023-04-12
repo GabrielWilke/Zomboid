@@ -1,0 +1,4 @@
+[09-04-23 01:27:54.507][info] Init chat system....
+[09-04-23 01:27:54.508][info] Mode: multiplayer.
+[09-04-23 01:27:54.508][info] Chat owner: Tomioka.
+[09-04-23 02:54:06.477][info] Got message from server: ChatMessage{chat=Local, author='DeIL ??', text='OVER HERE!'}.

@@ -1,0 +1,148 @@
+[08-04-23 01:52:01.638][info] Start chat server initialization....
+[08-04-23 01:52:01.831][info] General chat has id = 0.
+[08-04-23 01:52:01.831][info] Say chat has id = 1.
+[08-04-23 01:52:01.831][info] Shout chat has id = 2.
+[08-04-23 01:52:01.832][info] Radio chat has id = 3.
+[08-04-23 01:52:01.832][info] Admin chat has id = 4.
+[08-04-23 01:52:01.832][info] Server chat has id = 5.
+[08-04-23 01:52:01.832][info] Chat server successfully initialized.
+[08-04-23 01:53:19.818][info] Player with id = '0' tries to connect.
+[08-04-23 01:53:19.818][info] Adding player '0' to chat server.
+[08-04-23 01:53:19.820][info] Player joined to default chats.
+[08-04-23 01:53:19.821][info] Player Tomioka(0) joined to chat server successfully.
+[08-04-23 01:55:54.203][info] Player with id = '8' tries to connect.
+[08-04-23 01:55:54.203][info] Adding player '8' to chat server.
+[08-04-23 01:55:54.204][info] Player joined to default chats.
+[08-04-23 01:55:54.204][info] Player joaoZinBALATENSA(8) joined to chat server successfully.
+[08-04-23 01:56:32.543][info] Player with id = '16' tries to connect.
+[08-04-23 01:56:32.543][info] Adding player '16' to chat server.
+[08-04-23 01:56:32.544][info] Player joined to default chats.
+[08-04-23 01:56:32.544][info] Player f1_dvd(16) joined to chat server successfully.
+[08-04-23 01:57:18.928][info] Player with id = '12' tries to connect.
+[08-04-23 01:57:18.929][info] Adding player '12' to chat server.
+[08-04-23 01:57:18.929][info] Player joined to default chats.
+[08-04-23 01:57:18.929][info] Player monicao da 13(12) joined to chat server successfully.
+[08-04-23 01:58:52.194][info] Player with id = '4' tries to connect.
+[08-04-23 01:58:52.194][info] Adding player '4' to chat server.
+[08-04-23 01:58:52.195][info] Player joined to default chats.
+[08-04-23 01:58:52.195][info] Player DeIL ??(4) joined to chat server successfully.
+[08-04-23 02:09:06.286][info] Player 16 disconnecting....
+[08-04-23 02:09:06.287][info] Disconnecting player 16 finished.
+[08-04-23 02:09:22.512][info] Player 16 disconnecting....
+[08-04-23 02:09:22.512][info] Disconnecting player 16 finished.
+[08-04-23 02:09:22.513][info] Player with id = '16' tries to connect.
+[08-04-23 02:09:22.513][info] Adding player '16' to chat server.
+[08-04-23 02:09:22.513][error] Player or connection is not found on server!.
+[08-04-23 02:09:22.513][error] player = null.
+[08-04-23 02:09:24.784][info] Player with id = '16' tries to connect.
+[08-04-23 02:09:24.784][info] Adding player '16' to chat server.
+[08-04-23 02:09:24.785][info] Player joined to default chats.
+[08-04-23 02:09:24.785][info] Player f1_dvd(16) joined to chat server successfully.
+[08-04-23 02:10:59.125][info] Player 0 disconnecting....
+[08-04-23 02:10:59.125][info] Disconnecting player 0 finished.
+[08-04-23 02:11:19.144][info] Player 0 disconnecting....
+[08-04-23 02:11:19.144][info] Disconnecting player 0 finished.
+[08-04-23 02:11:19.145][info] Player with id = '0' tries to connect.
+[08-04-23 02:11:19.145][info] Adding player '0' to chat server.
+[08-04-23 02:11:19.145][error] Player or connection is not found on server!.
+[08-04-23 02:11:19.146][error] player = null.
+[08-04-23 02:11:21.405][info] Player with id = '0' tries to connect.
+[08-04-23 02:11:21.405][info] Adding player '0' to chat server.
+[08-04-23 02:11:21.406][info] Player joined to default chats.
+[08-04-23 02:11:21.406][info] Player Tomioka(0) joined to chat server successfully.
+[08-04-23 02:12:00.713][info] Player 12 disconnecting....
+[08-04-23 02:12:00.713][info] Disconnecting player 12 finished.
+[08-04-23 02:13:14.635][info] Player 12 disconnecting....
+[08-04-23 02:13:14.635][info] Disconnecting player 12 finished.
+[08-04-23 02:13:14.636][info] Player with id = '12' tries to connect.
+[08-04-23 02:13:14.636][info] Adding player '12' to chat server.
+[08-04-23 02:13:14.636][error] Player or connection is not found on server!.
+[08-04-23 02:13:14.636][error] player = null.
+[08-04-23 02:13:16.596][info] Player with id = '12' tries to connect.
+[08-04-23 02:13:16.596][info] Adding player '12' to chat server.
+[08-04-23 02:13:16.596][info] Player joined to default chats.
+[08-04-23 02:13:16.596][info] Player monicao da 13(12) joined to chat server successfully.
+[08-04-23 02:19:31.920][info] Player 12 disconnecting....
+[08-04-23 02:19:31.921][info] Disconnecting player 12 finished.
+[08-04-23 02:20:10.020][info] Player 12 disconnecting....
+[08-04-23 02:20:10.020][info] Disconnecting player 12 finished.
+[08-04-23 02:20:10.021][info] Player with id = '12' tries to connect.
+[08-04-23 02:20:10.021][info] Adding player '12' to chat server.
+[08-04-23 02:20:10.021][error] Player or connection is not found on server!.
+[08-04-23 02:20:10.021][error] player = null.
+[08-04-23 02:20:11.706][info] Player with id = '12' tries to connect.
+[08-04-23 02:20:11.706][info] Adding player '12' to chat server.
+[08-04-23 02:20:11.707][info] Player joined to default chats.
+[08-04-23 02:20:11.707][info] Player monicao da 13(12) joined to chat server successfully.
+[08-04-23 02:23:55.143][info] Player 12 disconnecting....
+[08-04-23 02:23:55.143][info] Disconnecting player 12 finished.
+[08-04-23 02:24:21.141][info] Player 12 disconnecting....
+[08-04-23 02:24:21.141][info] Disconnecting player 12 finished.
+[08-04-23 02:24:21.142][info] Player with id = '12' tries to connect.
+[08-04-23 02:24:21.142][info] Adding player '12' to chat server.
+[08-04-23 02:24:21.142][error] Player or connection is not found on server!.
+[08-04-23 02:24:21.143][error] player = null.
+[08-04-23 02:24:22.780][info] Player with id = '12' tries to connect.
+[08-04-23 02:24:22.781][info] Adding player '12' to chat server.
+[08-04-23 02:24:22.781][info] Player joined to default chats.
+[08-04-23 02:24:22.781][info] Player monicao da 13(12) joined to chat server successfully.
+[08-04-23 02:34:21.683][info] Player 12 disconnecting....
+[08-04-23 02:34:21.683][info] Disconnecting player 12 finished.
+[08-04-23 02:34:36.376][info] Player 12 disconnecting....
+[08-04-23 02:34:36.376][info] Disconnecting player 12 finished.
+[08-04-23 02:34:36.377][info] Player with id = '12' tries to connect.
+[08-04-23 02:34:36.377][info] Adding player '12' to chat server.
+[08-04-23 02:34:36.377][error] Player or connection is not found on server!.
+[08-04-23 02:34:36.378][error] player = null.
+[08-04-23 02:34:37.729][info] Player with id = '12' tries to connect.
+[08-04-23 02:34:37.729][info] Adding player '12' to chat server.
+[08-04-23 02:34:37.729][info] Player joined to default chats.
+[08-04-23 02:34:37.730][info] Player monicao da 13(12) joined to chat server successfully.
+[08-04-23 02:37:05.068][info] Player 8 disconnecting....
+[08-04-23 02:37:05.068][info] Disconnecting player 8 finished.
+[08-04-23 02:42:31.673][info] Player 8 disconnecting....
+[08-04-23 02:42:31.673][info] Disconnecting player 8 finished.
+[08-04-23 02:42:31.674][info] Player with id = '8' tries to connect.
+[08-04-23 02:42:31.674][info] Adding player '8' to chat server.
+[08-04-23 02:42:31.674][error] Player or connection is not found on server!.
+[08-04-23 02:42:31.674][error] player = null.
+[08-04-23 02:42:34.351][info] Player with id = '8' tries to connect.
+[08-04-23 02:42:34.351][info] Adding player '8' to chat server.
+[08-04-23 02:42:34.351][info] Player joined to default chats.
+[08-04-23 02:42:34.352][info] Player joaoZinBALATENSA(8) joined to chat server successfully.
+[08-04-23 02:56:45.010][info] Player 12 disconnecting....
+[08-04-23 02:56:45.010][info] Disconnecting player 12 finished.
+[08-04-23 02:56:45.010][info] Player 12 disconnecting....
+[08-04-23 02:56:45.010][info] Disconnecting player 12 finished.
+[08-04-23 03:00:36.520][info] Player 4 disconnecting....
+[08-04-23 03:00:36.521][info] Disconnecting player 4 finished.
+[08-04-23 03:00:48.724][info] Player with id = '12' tries to connect.
+[08-04-23 03:00:48.724][info] Adding player '12' to chat server.
+[08-04-23 03:00:48.724][info] Player joined to default chats.
+[08-04-23 03:00:48.725][info] Player monicao da 13(12) joined to chat server successfully.
+[08-04-23 03:01:00.895][info] Player 4 disconnecting....
+[08-04-23 03:01:00.895][info] Disconnecting player 4 finished.
+[08-04-23 03:01:00.896][info] Player with id = '4' tries to connect.
+[08-04-23 03:01:00.896][info] Adding player '4' to chat server.
+[08-04-23 03:01:00.896][error] Player or connection is not found on server!.
+[08-04-23 03:01:00.896][error] player = null.
+[08-04-23 03:01:02.285][info] Player with id = '4' tries to connect.
+[08-04-23 03:01:02.285][info] Adding player '4' to chat server.
+[08-04-23 03:01:02.285][info] Player joined to default chats.
+[08-04-23 03:01:02.286][info] Player DeIL ??(4) joined to chat server successfully.
+[08-04-23 03:05:36.419][info] Player 12 disconnecting....
+[08-04-23 03:05:36.419][info] Disconnecting player 12 finished.
+[08-04-23 03:05:56.080][info] Player 12 disconnecting....
+[08-04-23 03:05:56.080][info] Disconnecting player 12 finished.
+[08-04-23 03:05:56.081][info] Player with id = '12' tries to connect.
+[08-04-23 03:05:56.081][info] Adding player '12' to chat server.
+[08-04-23 03:05:56.081][error] Player or connection is not found on server!.
+[08-04-23 03:05:56.081][error] player = null.
+[08-04-23 03:05:58.121][info] Player with id = '12' tries to connect.
+[08-04-23 03:05:58.121][info] Adding player '12' to chat server.
+[08-04-23 03:05:58.122][info] Player joined to default chats.
+[08-04-23 03:05:58.122][info] Player monicao da 13(12) joined to chat server successfully.
+[08-04-23 03:25:49.182][info] Player 0 disconnecting....
+[08-04-23 03:25:49.182][info] Disconnecting player 0 finished.
+[08-04-23 03:25:49.182][info] Player 0 disconnecting....
+[08-04-23 03:25:49.182][info] Disconnecting player 0 finished.

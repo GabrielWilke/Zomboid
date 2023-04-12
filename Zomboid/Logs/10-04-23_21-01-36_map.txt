@@ -1,0 +1,207 @@
+[10-04-23 21:01:36.659] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_25) at 8138,11738,0.
+[10-04-23 21:01:36.670] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_24) at 8138,11739,0.
+[10-04-23 21:02:51.942] 76561198082500592 "joaoZinBALATENSA" added Thumpable (furniture_shelving_01_25) at 8142.0,11739.0,0.0.
+[10-04-23 21:02:51.953] 76561198082500592 "joaoZinBALATENSA" added Thumpable (furniture_shelving_01_24) at 8142.0,11740.0,0.0.
+[10-04-23 21:03:17.732] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_29) at 8145,11741,0.
+[10-04-23 21:03:35.030] 76561198082500592 "joaoZinBALATENSA" added IsoObject (furniture_shelving_01_28) at 8142.0,11738.0,0.0.
+[10-04-23 21:07:28.756] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (location_business_office_generic_01_44) at 8130,11742,0.
+[10-04-23 21:07:49.199] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (location_business_office_generic_01_45) at 8131,11742,0.
+[10-04-23 21:08:24.324] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_seating_indoor_02_18) at 8128,11746,0.
+[10-04-23 21:08:24.331] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_seating_indoor_02_19) at 8129,11746,0.
+[10-04-23 21:08:48.303] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_seating_indoor_02_18) at 8132,11746,0.
+[10-04-23 21:08:48.328] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_seating_indoor_02_19) at 8133,11746,0.
+[10-04-23 21:14:36.354] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (location_business_office_generic_01_42) at 8066,11737,0.
+[10-04-23 21:14:50.821] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (location_business_office_generic_01_43) at 8067,11737,0.
+[10-04-23 21:15:12.342] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (location_business_office_generic_01_44) at 8066,11735,0.
+[10-04-23 21:15:46.961] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (location_business_office_generic_01_45) at 8067,11735,0.
+[10-04-23 21:16:07.510] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (location_business_office_generic_01_40) at 8070,11735,0.
+[10-04-23 21:16:28.626] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (location_business_office_generic_01_41) at 8070,11734,0.
+[10-04-23 21:16:48.175] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (location_business_office_generic_01_42) at 8072,11733,0.
+[10-04-23 21:18:10.630] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_2) at 8192,11773,0.
+[10-04-23 21:18:39.443] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_2) at 8193,11773,0.
+[10-04-23 21:18:46.890] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8193,11772,0.
+[10-04-23 21:28:56.477] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8197,11773,0.
+[10-04-23 21:31:18.411] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_40) at 8330,11616,0.
+[10-04-23 21:31:52.898] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_43) at 8330,11615,0.
+[10-04-23 21:32:18.394] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_43) at 8329,11615,0.
+[10-04-23 21:32:49.180] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_40) at 8329,11616,0.
+[10-04-23 21:33:22.021] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_43) at 8328,11615,0.
+[10-04-23 21:33:40.655] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_40) at 8328,11616,0.
+[10-04-23 21:34:31.133] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_40) at 8327,11616,0.
+[10-04-23 21:34:34.831] 76561198082500592 "joaoZinBALATENSA" removed Door (fixtures_doors_01_4) at 8288,11591,0.
+[10-04-23 21:34:49.194] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_43) at 8327,11615,0.
+[10-04-23 21:35:41.825] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_43) at 8326,11618,0.
+[10-04-23 21:36:00.045] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_43) at 8327,11618,0.
+[10-04-23 21:36:31.618] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_43) at 8328,11618,0.
+[10-04-23 21:45:17.409] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8157.0,11773.0,0.0.
+[10-04-23 21:46:42.014] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8158.0,11773.0,0.0.
+[10-04-23 21:57:00.219] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (location_shop_generic_01_72) at 8141,11479,0.
+[10-04-23 21:57:00.221] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (location_shop_generic_01_73) at 8142,11479,0.
+[10-04-23 21:58:29.547] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (location_shop_generic_01_76) at 8141,11478,0.
+[10-04-23 21:58:29.549] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (location_shop_generic_01_77) at 8142,11478,0.
+[10-04-23 22:00:58.871] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (location_shop_generic_01_76) at 8141,11481,0.
+[10-04-23 22:00:58.879] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (location_shop_generic_01_77) at 8142,11481,0.
+[10-04-23 22:02:56.134] 76561198082500592 "joaoZinBALATENSA" removed Door (walls_garage_01_48) at 8151,11489,0.
+[10-04-23 22:02:56.134] 76561198082500592 "joaoZinBALATENSA" removed Door (walls_garage_01_50) at 8151,11487,0.
+[10-04-23 22:02:56.135] 76561198082500592 "joaoZinBALATENSA" removed Door (walls_garage_01_49) at 8151,11488,0.
+[10-04-23 22:03:36.242] 76561198307998488 "DeIL ??" removed Door (fixtures_doors_02_57) at 8141,11486,0.
+[10-04-23 22:16:06.615] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (location_community_school_01_36) at 8154,11732,0.
+[10-04-23 22:16:51.207] 76561198082500592 "joaoZinBALATENSA" added Thumpable (location_shop_generic_01_72) at 8145.0,11741.0,0.0.
+[10-04-23 22:16:51.211] 76561198082500592 "joaoZinBALATENSA" added Thumpable (location_shop_generic_01_73) at 8146.0,11741.0,0.0.
+[10-04-23 22:17:04.010] 76561198082500592 "joaoZinBALATENSA" removed Thumpable (location_shop_generic_01_72) at 8145,11741,0.
+[10-04-23 22:17:04.010] 76561198082500592 "joaoZinBALATENSA" removed Thumpable (location_shop_generic_01_73) at 8146,11741,0.
+[10-04-23 22:17:04.011] 76561198082500592 "joaoZinBALATENSA" added  (location_shop_generic_01_72) at 8144.0,11741.0,0.0.
+[10-04-23 22:17:04.012] 76561198082500592 "joaoZinBALATENSA" added  (location_shop_generic_01_73) at 8145.0,11741.0,0.0.
+[10-04-23 22:17:30.801] 76561198082500592 "joaoZinBALATENSA" removed  (location_shop_generic_01_72) at 8144,11741,0.
+[10-04-23 22:17:30.804] 76561198082500592 "joaoZinBALATENSA" removed  (location_shop_generic_01_73) at 8145,11741,0.
+[10-04-23 22:19:01.535] 76561198082500592 "joaoZinBALATENSA" added  (location_shop_generic_01_79) at 8147.0,11742.0,0.0.
+[10-04-23 22:19:01.536] 76561198082500592 "joaoZinBALATENSA" added  (location_shop_generic_01_78) at 8147.0,11743.0,0.0.
+[10-04-23 22:19:29.090] 76561198082500592 "joaoZinBALATENSA" removed  (location_shop_generic_01_79) at 8147,11742,0.
+[10-04-23 22:19:29.093] 76561198082500592 "joaoZinBALATENSA" removed  (location_shop_generic_01_78) at 8147,11743,0.
+[10-04-23 22:19:49.661] 76561198082500592 "joaoZinBALATENSA" added  (location_shop_generic_01_72) at 8145.0,11741.0,0.0.
+[10-04-23 22:19:49.662] 76561198082500592 "joaoZinBALATENSA" added  (location_shop_generic_01_73) at 8146.0,11741.0,0.0.
+[10-04-23 22:20:14.475] 76561198082500592 "joaoZinBALATENSA" added Thumpable (location_shop_generic_01_72) at 8147.0,11741.0,0.0.
+[10-04-23 22:20:14.477] 76561198082500592 "joaoZinBALATENSA" added Thumpable (location_shop_generic_01_73) at 8148.0,11741.0,0.0.
+[10-04-23 22:20:52.940] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_29) at 8145,11743,0.
+[10-04-23 22:21:01.706] 76561198082500592 "joaoZinBALATENSA" added IsoObject (furniture_shelving_01_29) at 8145.0,11747.0,0.0.
+[10-04-23 22:21:13.521] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_29) at 8145,11742,0.
+[10-04-23 22:21:21.075] 76561198082500592 "joaoZinBALATENSA" added IsoObject (furniture_shelving_01_29) at 8145.0,11748.0,0.0.
+[10-04-23 22:34:01.029] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_43) at 8332,11618,0.
+[10-04-23 22:35:30.199] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_43) at 8331,11618,0.
+[10-04-23 22:35:48.029] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (furniture_shelving_01_43) at 8330,11618,0.
+[10-04-23 22:37:20.653] 76561198082500592 "joaoZinBALATENSA" removed Door (fixtures_doors_01_5) at 8260,11552,0.
+[10-04-23 22:40:05.127] 76561198082500592 "joaoZinBALATENSA" added Thumpable (furniture_shelving_01_41) at 8145.0,11743.0,0.0.
+[10-04-23 22:40:33.707] 76561198082500592 "joaoZinBALATENSA" added Thumpable (furniture_shelving_01_41) at 8145.0,11742.0,0.0.
+[10-04-23 22:45:40.307] 76561198226339992 "monicao da 13" added Trap (constructedobjects_01_18) at 8151.0,11749.0,0.0.
+[10-04-23 22:52:51.544] 76561198082500592 "joaoZinBALATENSA" removed IsoObject (location_business_office_generic_01_49) at 8142,11741,0.
+[10-04-23 22:53:09.887] 76561198082500592 "joaoZinBALATENSA" added Thumpable (location_business_office_generic_01_49) at 8149.0,11741.0,0.0.
+[10-04-23 23:05:30.248] 76561198307998488 "DeIL ??" removed LightSwitch (lighting_indoor_01_12) at 8164,11680,1.
+[10-04-23 23:06:45.671] 76561198307998488 "DeIL ??" removed LightSwitch (lighting_indoor_01_43) at 8164,11672,1.
+[10-04-23 23:07:42.317] 76561198307998488 "DeIL ??" removed LightSwitch (lighting_indoor_01_43) at 8164,11675,1.
+[10-04-23 23:08:33.303] 76561198307998488 "DeIL ??" removed Television (appliances_television_01_4) at 8158,11670,0.
+[10-04-23 23:25:14.291] 76561198307998488 "DeIL ??" removed Radio (appliances_radio_01_1) at 7677,11124,0.
+[10-04-23 23:42:29.575] 76561198307998488 "DeIL ??" removed LightSwitch (lighting_indoor_01_51) at 8070,11417,0.
+[10-04-23 23:44:46.586] 76561198307998488 "DeIL ??" removed LightSwitch (lighting_indoor_01_51) at 8070,11421,0.
+[10-04-23 23:45:33.941] 76561198307998488 "DeIL ??" removed LightSwitch (lighting_indoor_01_51) at 8070,11425,0.
+[10-04-23 23:47:47.638] 76561198307998488 "DeIL ??" removed Television (appliances_television_01_10) at 8071,11426,0.
+[10-04-23 23:49:41.353] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_3) at 8180,11770,0.
+[10-04-23 23:49:47.448] 76561198045199544 "Tomioka" removed Carolina Silverbell (e_carolinasilverbell_1_2) at 8180,11771,0.
+[10-04-23 23:49:56.719] 76561198045199544 "Tomioka" removed Carolina Silverbell (e_carolinasilverbell_1_2) at 8181,11770,0.
+[10-04-23 23:50:01.901] 76561198045199544 "Tomioka" removed Carolina Silverbell (e_carolinasilverbell_1_2) at 8182,11770,0.
+[10-04-23 23:50:09.910] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_3) at 8185,11770,0.
+[10-04-23 23:54:09.425] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8159.0,11773.0,0.0.
+[10-04-23 23:54:16.114] 76561198045199544 "Tomioka" removed Eastern Redbud (e_easternredbud_1_2) at 8197,11772,0.
+[10-04-23 23:54:21.002] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_2) at 8197,11771,0.
+[10-04-23 23:54:28.081] 76561198045199544 "Tomioka" removed Eastern Redbud (e_easternredbud_1_2) at 8199,11771,0.
+[10-04-23 23:55:49.414] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8195,11768,0.
+[10-04-23 23:55:57.998] 76561198045199544 "Tomioka" removed Virginia Pine (e_virginiapine_1_3) at 8196,11768,0.
+[10-04-23 23:56:04.620] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_3) at 8197,11768,0.
+[10-04-23 23:56:09.163] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8198,11768,0.
+[10-04-23 23:56:15.571] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8200,11771,0.
+[10-04-23 23:56:50.736] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8160.0,11773.0,0.0.
+[10-04-23 23:57:17.832] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8161.0,11773.0,0.0.
+[11-04-23 00:03:52.609] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8201,11768,0.
+[11-04-23 00:03:57.897] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_2) at 8200,11768,0.
+[11-04-23 00:04:04.295] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_2) at 8199,11767,0.
+[11-04-23 00:04:12.416] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_2) at 8198,11765,0.
+[11-04-23 00:04:20.965] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8200,11765,0.
+[11-04-23 00:04:27.461] 76561198045199544 "Tomioka" removed Riverbirch (e_riverbirch_1_2) at 8202,11767,0.
+[11-04-23 00:04:32.800] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8202,11770,0.
+[11-04-23 00:05:15.214] 76561198045199544 "Tomioka" removed Eastern Redbud (e_easternredbud_1_2) at 8203,11771,0.
+[11-04-23 00:05:20.896] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8203,11769,0.
+[11-04-23 00:05:27.513] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8205,11768,0.
+[11-04-23 00:06:08.933] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_2) at 8200,11764,0.
+[11-04-23 00:06:17.135] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8198,11764,0.
+[11-04-23 00:06:27.528] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_2) at 8205,11772,0.
+[11-04-23 00:06:34.217] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8204,11773,0.
+[11-04-23 00:07:17.999] 76561198045199544 "Tomioka" removed Virginia Pine (e_virginiapine_1_3) at 8207,11768,0.
+[11-04-23 00:07:48.608] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8162.0,11773.0,0.0.
+[11-04-23 00:08:08.505] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8163.0,11773.0,0.0.
+[11-04-23 00:08:16.004] 76561198045199544 "Tomioka" removed Riverbirch (e_riverbirch_1_3) at 8207,11767,0.
+[11-04-23 00:08:22.825] 76561198045199544 "Tomioka" removed Riverbirch (e_riverbirch_1_3) at 8206,11766,0.
+[11-04-23 00:08:31.379] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8203,11764,0.
+[11-04-23 00:08:41.562] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8197,11764,0.
+[11-04-23 00:08:53.643] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8164.0,11773.0,0.0.
+[11-04-23 00:08:55.549] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_2) at 8198,11763,0.
+[11-04-23 00:11:00.811] 76561198045199544 "Tomioka" removed Virginia Pine (e_virginiapine_1_3) at 8195,11764,0.
+[11-04-23 00:11:52.363] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_3) at 8197,11763,0.
+[11-04-23 00:11:59.626] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8195,11763,0.
+[11-04-23 00:12:22.904] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8165.0,11773.0,0.0.
+[11-04-23 00:13:12.314] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_2) at 8199,11763,0.
+[11-04-23 00:13:19.648] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_3) at 8195,11762,0.
+[11-04-23 00:13:24.793] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8198,11762,0.
+[11-04-23 00:13:29.832] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8199,11762,0.
+[11-04-23 00:13:58.653] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8166.0,11773.0,0.0.
+[11-04-23 00:14:20.286] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8167.0,11773.0,0.0.
+[11-04-23 00:15:33.792] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8196,11761,0.
+[11-04-23 00:15:38.030] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8197,11761,0.
+[11-04-23 00:15:43.760] 76561198045199544 "Tomioka" removed Virginia Pine (e_virginiapine_1_3) at 8194,11760,0.
+[11-04-23 00:15:49.462] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_3) at 8197,11760,0.
+[11-04-23 00:15:56.976] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8199,11761,0.
+[11-04-23 00:16:02.636] 76561198045199544 "Tomioka" removed Riverbirch (e_riverbirch_1_2) at 8200,11762,0.
+[11-04-23 00:16:44.747] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8198,11760,0.
+[11-04-23 00:16:52.366] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8199,11760,0.
+[11-04-23 00:17:00.085] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8200,11760,0.
+[11-04-23 00:17:48.656] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8168.0,11773.0,0.0.
+[11-04-23 00:18:39.595] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8169.0,11773.0,0.0.
+[11-04-23 00:19:46.414] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8170.0,11773.0,0.0.
+[11-04-23 00:21:43.514] 76561198045199544 "Tomioka" removed Riverbirch (e_riverbirch_1_3) at 8199,11759,0.
+[11-04-23 00:21:48.436] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8201,11761,0.
+[11-04-23 00:21:54.766] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8198,11759,0.
+[11-04-23 00:22:00.329] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8197,11759,0.
+[11-04-23 00:22:07.023] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8196,11759,0.
+[11-04-23 00:22:21.210] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8198,11758,0.
+[11-04-23 00:23:58.527] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8172.0,11773.0,0.0.
+[11-04-23 00:24:24.773] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8171.0,11773.0,0.0.
+[11-04-23 00:25:09.904] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8173.0,11773.0,0.0.
+[11-04-23 00:26:38.656] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_3) at 8203,11762,0.
+[11-04-23 00:26:45.897] 76561198045199544 "Tomioka" removed Riverbirch (e_riverbirch_1_3) at 8204,11761,0.
+[11-04-23 00:27:14.462] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8200,11759,0.
+[11-04-23 00:27:18.381] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8199,11758,0.
+[11-04-23 00:27:25.798] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_3) at 8201,11759,0.
+[11-04-23 00:28:12.723] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8174.0,11773.0,0.0.
+[11-04-23 00:29:33.184] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8175.0,11773.0,0.0.
+[11-04-23 00:31:22.353] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8195,11757,0.
+[11-04-23 00:31:27.319] 76561198045199544 "Tomioka" removed Riverbirch (e_riverbirch_1_2) at 8196,11757,0.
+[11-04-23 00:31:33.235] 76561198045199544 "Tomioka" removed Virginia Pine (e_virginiapine_1_2) at 8195,11756,0.
+[11-04-23 00:31:33.455] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8176.0,11773.0,0.0.
+[11-04-23 00:31:40.330] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8200,11758,0.
+[11-04-23 00:32:21.779] 76561198045199544 "Tomioka" removed Riverbirch (e_riverbirch_1_3) at 8199,11757,0.
+[11-04-23 00:32:26.198] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_3) at 8200,11757,0.
+[11-04-23 00:33:39.529] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_3) at 8201,11758,0.
+[11-04-23 00:33:45.953] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8204,11759,0.
+[11-04-23 00:34:58.947] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8177.0,11773.0,0.0.
+[11-04-23 00:35:12.806] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8178.0,11773.0,0.0.
+[11-04-23 00:35:25.596] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8179.0,11773.0,0.0.
+[11-04-23 00:38:04.138] 76561198226339992 "monicao da 13" removed IsoGenerator (appliances_misc_01_0) at 8151,11673,0.
+[11-04-23 00:39:16.276] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8180.0,11773.0,0.0.
+[11-04-23 00:39:30.447] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8181.0,11773.0,0.0.
+[11-04-23 00:39:49.770] 76561198045199544 "Tomioka" removed Riverbirch (e_riverbirch_1_2) at 8195,11755,0.
+[11-04-23 00:40:04.685] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8207,11765,0.
+[11-04-23 00:40:09.684] 76561198045199544 "Tomioka" removed Virginia Pine (e_virginiapine_1_2) at 8206,11763,0.
+[11-04-23 00:40:10.193] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8182.0,11773.0,0.0.
+[11-04-23 00:40:16.777] 76561198045199544 "Tomioka" removed Cockspur Hawthorn (e_cockspurhawthorn_1_2) at 8206,11759,0.
+[11-04-23 00:40:23.921] 76561198045199544 "Tomioka" removed Riverbirch (e_riverbirch_1_3) at 8201,11757,0.
+[11-04-23 00:40:49.585] 76561198045199544 "Tomioka" removed Riverbirch (e_riverbirch_1_3) at 8207,11755,0.
+[11-04-23 00:40:58.579] 76561198226339992 "monicao da 13" removed IsoGenerator (appliances_misc_01_0) at 8143,11673,0.
+[11-04-23 00:41:01.784] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_3) at 8202,11756,0.
+[11-04-23 00:41:18.003] 76561198045199544 "Tomioka" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8198,11755,0.
+[11-04-23 00:42:03.282] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_3) at 8201,11755,0.
+[11-04-23 00:42:09.151] 76561198045199544 "Tomioka" removed Riverbirch (e_riverbirch_1_3) at 8202,11755,0.
+[11-04-23 00:42:24.949] 76561198226339992 "monicao da 13" added IsoGenerator (appliances_misc_01_0) at 8138.0,11658.0,0.0.
+[11-04-23 00:43:47.355] 76561198045199544 "Tomioka" removed American Holly (e_americanholly_1_3) at 8207,11773,0.
+[11-04-23 00:44:22.677] 76561198226339992 "monicao da 13" added IsoGenerator (appliances_misc_01_0) at 8147.0,11739.0,0.0.
+[11-04-23 00:46:06.653] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8184.0,11773.0,0.0.
+[11-04-23 00:46:21.187] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8183.0,11773.0,0.0.
+[11-04-23 00:46:41.249] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8185.0,11773.0,0.0.
+[11-04-23 00:50:42.812] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8186.0,11773.0,0.0.
+[11-04-23 00:50:56.152] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8187.0,11773.0,0.0.
+[11-04-23 00:51:11.997] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8188.0,11773.0,0.0.
+[11-04-23 00:56:58.118] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8189.0,11773.0,0.0.
+[11-04-23 00:57:30.232] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8190.0,11773.0,0.0.
+[11-04-23 00:58:20.182] 76561198226339992 "monicao da 13" removed IsoGenerator (appliances_misc_01_0) at 8138,11658,0.
+[11-04-23 00:58:35.257] 76561198226339992 "monicao da 13" added IsoGenerator (appliances_misc_01_0) at 8136.0,11657.0,0.0.
+[11-04-23 01:02:36.081] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_81) at 8191.0,11773.0,0.0.
+[11-04-23 01:03:38.697] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_80) at 8192.0,11772.0,0.0.
+[11-04-23 01:03:54.557] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_80) at 8192.0,11771.0,0.0.
+[11-04-23 01:04:40.431] 76561198082500592 "joaoZinBALATENSA" added Log Wall (carpentry_02_80) at 8192.0,11770.0,0.0.

@@ -1,0 +1,6 @@
+[08-04-23 03:06:47.297] [76561199070860042][ISEnterVehicle][f1_dvd][8139,11758,0][PickUpTruckLightsFire].
+[08-04-23 03:07:14.891] [76561199070860042][ISExitVehicle][f1_dvd][8140,11758,0][PickUpTruckLightsFire].
+[08-04-23 03:07:18.417] [76561198082500592][ISEnterVehicle][joaoZinBALATENSA][8139,11758,0][PickUpTruckLightsFire].
+[08-04-23 03:07:22.987] [76561198082500592][ISExitVehicle][joaoZinBALATENSA][8140,11758,0][PickUpTruckLightsFire].
+[08-04-23 03:11:18.492] [76561198226339992][ISEnterVehicle][monicao da 13][8139,11758,0][PickUpTruckLightsFire].
+[08-04-23 03:11:31.316] [76561198226339992][ISExitVehicle][monicao da 13][8138,11758,0][PickUpTruckLightsFire].

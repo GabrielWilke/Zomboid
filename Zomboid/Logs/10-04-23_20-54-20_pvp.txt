@@ -1,0 +1,38 @@
+[10-04-23 20:54:20.529][INFO] user "Tomioka" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[10-04-23 20:56:34.662][INFO] user "monicao da 13" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[10-04-23 20:56:56.331][INFO] user "joaoZinBALATENSA" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[10-04-23 21:03:32.030][INFO] user "DeIL ??" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[10-04-23 21:04:06.007][INFO] user "DeIL ??" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[10-04-23 21:13:52.627][INFO] user "DeIL ??" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[10-04-23 22:04:24.052][INFO] user "monicao da 13" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[10-04-23 22:05:52.405][INFO] user "monicao da 13" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[10-04-23 22:53:37.759][INFO] user "joaoZinBALATENSA" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[10-04-23 23:13:09.191][INFO] user "joaoZinBALATENSA" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[10-04-23 23:57:34.625] user "monicao da 13" (8153,11747,0) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[10-04-23 23:57:34.625] user "monicao da 13" (8153,11747,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[10-04-23 23:57:35.851] user "DeIL ??" (8152,11746,0) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[10-04-23 23:57:35.851] user "DeIL ??" (8152,11746,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[10-04-23 23:57:44.926] user "DeIL ??" (8149,11746,0) disabled safety enabled=false last=true cooldown=3.0 toggle=0.0.
+[10-04-23 23:57:47.550] user "DeIL ??" (8149,11746,0) disabled safety enabled=false last=true cooldown=3.4021797 toggle=0.0.
+[10-04-23 23:57:48.324] user "DeIL ??" (8149,11746,0) disabled safety enabled=false last=true cooldown=5.6028194 toggle=0.0.
+[10-04-23 23:57:51.378] user "DeIL ??" (8148,11747,0) disabled safety enabled=false last=true cooldown=5.605091 toggle=0.0.
+[10-04-23 23:57:52.289] user "DeIL ??" (8148,11747,0) disabled safety enabled=false last=true cooldown=7.7052336 toggle=0.0.
+[10-04-23 23:58:02.792][INFO] user "monicao da 13" clear safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[10-04-23 23:58:02.793][IMPORTANT] user joaoZinBALATENSA (76561198082500592)  killed monicao da 13 (76561198226339992)  (8149,11746,0).
+[10-04-23 23:58:03.058] user "DeIL ??" (8151,11746,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[10-04-23 23:58:03.058] user "DeIL ??" (8151,11746,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[10-04-23 23:58:37.234] user "Tomioka" (8151,11744,0) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[10-04-23 23:58:37.234] user "Tomioka" (8151,11744,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[10-04-23 23:58:43.581] user "Tomioka" (8150,11743,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[10-04-23 23:58:43.581] user "Tomioka" (8150,11743,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[10-04-23 23:59:21.210][INFO] user "joaoZinBALATENSA" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[11-04-23 00:00:05.487][INFO] user "monicao da 13" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[11-04-23 00:00:22.525][INFO] user "joaoZinBALATENSA" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[11-04-23 00:00:58.112] user "DeIL ??" (8147,11734,0) enabled safety enabled=true last=false cooldown=0.0 toggle=0.0.
+[11-04-23 00:00:58.112] user "DeIL ??" (8147,11734,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[11-04-23 00:01:51.082][INFO] user "DeIL ??" clear safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[11-04-23 00:01:51.082][IMPORTANT] user joaoZinBALATENSA (76561198082500592)  killed DeIL ?? (76561198307998488)  (8146,11732,0).
+[11-04-23 00:09:17.344][INFO] user "DeIL ??" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[11-04-23 00:15:25.854][INFO] user "DeIL ??" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[11-04-23 00:18:51.884][INFO] user "DeIL ??" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[11-04-23 01:05:17.974][INFO] user "Tomioka" store safety enabled=true last=false cooldown=0.0 toggle=0.0.

@@ -1,0 +1,4 @@
+[07-04-23 02:39:00.052][info] Init chat system....
+[07-04-23 02:39:00.052][info] Mode: multiplayer.
+[07-04-23 02:39:00.052][info] Chat owner: Tomioka.
+[07-04-23 02:53:49.620][info] Got message from server: ChatMessage{chat=Server, author='Server', text='Unknown command kill'}.
